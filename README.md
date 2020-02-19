@@ -5,9 +5,21 @@ This is the GitHub repository we're using to analyze golf shots over time. Below
 ## Table of Contents
 
 - [Installation](#installation)
+- [Data preparation](#data-preparation)
 - [Project Structure](#project-structure)
 
 ## Installation
+
+### Python dependencies
+
+This project uses `requests` and `BeautifulSoup` to scrape data from the PGA tour so that we can analyze that data.
+In order to install those, type
+
+```sh
+pipenv install
+```
+
+### R dependencies
 
 First, this assumes that you have `R` installed to your computer. In addition, you should have packrat installed:
 
@@ -22,6 +34,35 @@ packrat::init()
 ```
 
 This will install your required dependencies.
+
+## Data Preparation
+
+The script `python/collect_stats.py` provides a simple CLI to collect tournament-level data from the PGA tour for a number of different statistics. Its help menu is below:
+
+```sh
+usage: collect_stats.py [-h] [-d [FILE_DIR]] [--stats STATS [STATS ...]]
+                        [--seasons [SEASONS [SEASONS ...]]]
+                        [--time-periods [TIME_PERIODS [TIME_PERIODS ...]]]
+                        suffix
+
+A command-line interface for scraping PGA data.
+
+positional arguments:
+  suffix                The suffix you plan on using to name your files. (e.g.
+                        have all files end with pga_stats20102020.csv)
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -d [FILE_DIR]         The directory you plan on sending your files to
+  --stats STATS [STATS ...]
+                        The ID numbers for each of the stat tables you want to
+                        scrape
+  --seasons [SEASONS [SEASONS ...]]
+                        If you want to parse specific seasons, write them e.g.
+                        2018,2019 or 2018-2019
+  --time-periods [TIME_PERIODS [TIME_PERIODS ...]]
+                        Tournament Only or Year-To-Date through
+```
 
 ## Project Structure
 
