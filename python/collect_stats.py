@@ -1,6 +1,5 @@
 import os
 import csv
-import collections
 import re
 import time
 import random
@@ -86,9 +85,13 @@ def collect_stat_metadata(stat: str, season: Optional[str] = None) -> Dict[str, 
     url = "https://www.pgatour.com/stats/stat.{}.html".format(stat)
     html = get_soup(url)
     stats_group = html.find("div", class_="statistics-details-select-group")
-    metadata_labels = clean_column_names(
-        stats_group.find_all("span", class_="statistics-details-select-label")
-    )
+    if stats_group is None:
+        metadata_labels = ["season"]
+        stats_group = html.find("div", class_="statistics-details-select-wrap")
+    else:
+        metadata_labels = clean_column_names(
+            stats_group.find_all("span", class_="statistics-details-select-label")
+        )
     stats_select_bars = stats_group.find_all("select", class_="statistics-details-select")
     for label, selection in zip(metadata_labels, stats_select_bars):
         stats_metadata[label] = [
@@ -123,7 +126,8 @@ def _yield_stat_data(
                 record_metadata = {
                     "season": season,
                     "time_period": time_period,
-                    "tournament": tournament
+                    "tournament": tournament,
+                    "tournament_id": tourn_id
                 }
                 for record in collect_tournament_stats(stat, season_id, tp_id, tourn_id):
                     # Add season, time period and tournament data to each record
