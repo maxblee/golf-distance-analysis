@@ -37,7 +37,23 @@ This will install your required dependencies.
 
 ## Data Preparation
 
-The script `python/collect_stats.py` provides a simple CLI to collect tournament-level data from the PGA tour for a number of different statistics. Its help menu is below:
+There are two scripts, both in the `python` directory, that are designed to help us collect data for
+various statistics on PGA's site (i.e. they scrape data from the PGA site). 
+
+The first, `collect_metadata.py`, collects basic information about every statistic on PGA's site. Specifically,
+it creates a CSV describing the id of each statistic, the main statistic, the category of the statistic, the subcategory
+on PGA's site, and the season for that statistic. For instance, one row looks like this:
+
+```csv
+stat_id,season,stat_type,category,subcategory
+438,2020,Average Distance Of Putts Made,Putting,Avg. Putting Dist.
+```
+
+This should allow us to easily see the ID of each statistic and the years that statistic covers, which will be useful for
+a) determining the date range our analysis can cover, and b) running the second script to actually get the data.
+
+The second script, `collect_stats.py` provides a CLI to collect tournament-level data for most statistics on PGA's site.
+(It won't currently work for the all-time stats or some of the Points/Rankings stats.) Its help menu is below:
 
 ```sh
 usage: collect_stats.py [-h] [-d [FILE_DIR]] [--stats STATS [STATS ...]]
@@ -62,6 +78,13 @@ optional arguments:
                         2018,2019 or 2018-2019
   --time-periods [TIME_PERIODS [TIME_PERIODS ...]]
                         Tournament Only or Year-To-Date through
+```
+
+For our initial data acquisition (i.e. to get shots gained: putting, shots_gained: Off-The-Tee, and Money/Finishes),
+I ran the following command.
+
+```sh
+python python/collect_stats.py pga_stats.csv --stats 109 02564 02567 --seasons 2004-2019 --time-periods "Tournament Only" -d raw_data/
 ```
 
 ## Project Structure
