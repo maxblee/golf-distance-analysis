@@ -37,7 +37,7 @@ This will install your required dependencies.
 
 ## Data Preparation
 
-There are two scripts, both in the `python` directory, that are designed to help us collect data for
+There are three scripts, all in the `python` directory, that are designed to help us collect data for
 various statistics on PGA's site (i.e. they scrape data from the PGA site). 
 
 The first, `collect_metadata.py`, collects basic information about every statistic on PGA's site. Specifically,
@@ -84,7 +84,13 @@ For our initial data acquisition (i.e. to get shots gained: putting, shots_gaine
 I ran the following command.
 
 ```sh
-python python/collect_stats.py pga_stats.csv --stats 109 02564 02567 --seasons 2004-2019 --time-periods "Tournament Only" -d raw_data/
+python python/collect_stats.py raw_data/pga_stats.csv --stats 109 02564 02567 --seasons 2004-2019 --time-periods "Tournament Only" -d raw_data/
+```
+
+Finally, to get the lengths of courses for each year in our data, I used the script `collect_course_length.py`:
+
+```sh
+python python/collect_course_length.py raw_data/course_length_pga_stats.csv --seasons 2004-2019
 ```
 
 ## Project Structure
