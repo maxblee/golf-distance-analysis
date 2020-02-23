@@ -180,6 +180,21 @@ def write_mult_stat_files(
         path_to_file = os.path.join(file_dir, path_to_file) if file_dir is not None else path_to_file
         dump_stat_csv(path_to_file, stat, seasons, time_periods)
 
+def parse_seasons(seasons: List[str]):
+    """Parses a string of seasons into a list of seasons. Used by main and by collect_course_length main"""
+    parsed_seasons = []
+    for season in seasons:
+        if re.match("[0-9]{4}\-[0-9]{4}", season):
+            int_range = list(map(int, season.split("-")))
+            # increase end so our range is inclusive
+            int_range[1] += 1
+            parsed_seasons += list(map(str, range(*int_range)))
+        elif re.match("[0-9]{4}", season):
+            parsed_seasons.append(season)
+        else:
+            raise ValueError("The season must be a valid 4-digit year")
+    return parsed_seasons
+    
 def main():
     """The main function. Runs on the command line."""
     import argparse
@@ -193,17 +208,7 @@ def main():
     suffix = init_parse.suffix
     stats = init_parse.stats
     file_dir = init_parse.file_dir
-    seasons = []
-    for season in init_parse.seasons:
-        if re.match("[0-9]{4}\-[0-9]{4}", season):
-            int_range = list(map(int, season.split("-")))
-            # increase end so our range is inclusive
-            int_range[1] += 1
-            seasons += list(map(str, range(*int_range)))
-        elif re.match("[0-9]{4}", season):
-            seasons.append(season)
-        else:
-            raise ValueError("The season must be a valid 4-digit year")
+    seasons = parse_seasons(init_parse.seasons)
     time_periods = init_parse.time_periods
     write_mult_stat_files(suffix, stats, file_dir, seasons, time_periods)
 

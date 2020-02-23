@@ -4,3 +4,4 @@
 packrat/lib*/
 # hold off on posting the raw data on GitHub, probably use eg Google Docs instead
 raw_data/*
+__pycache__/
