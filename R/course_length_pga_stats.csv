@@ -1,0 +1,917 @@
+tournament_id,tournament_name,season,start_date,end_date,is_major,purse,course_name,yards,par,num_holes
+147,Mercedes Championships,2004,2004-01-08T08:00Z,2004-01-11T08:00Z,False,5300000.0,Plantation Course,7411,73,18
+153,Sony Open in Hawaii,2004,2004-01-15T08:00Z,2004-01-18T08:00Z,False,4800000.0,Waialae CC,7044,70,18
+149,Bob Hope Chrysler Classic,2004,2004-01-21T08:00Z,2004-01-25T08:00Z,False,4500000.0,PGA West (Palmer),0,0,18
+149,Bob Hope Chrysler Classic,2004,2004-01-21T08:00Z,2004-01-25T08:00Z,False,4500000.0,Bermuda Dunes CC,0,0,18
+149,Bob Hope Chrysler Classic,2004,2004-01-21T08:00Z,2004-01-25T08:00Z,False,4500000.0,Indian Wells Celebrity Course,6997,71,18
+149,Bob Hope Chrysler Classic,2004,2004-01-21T08:00Z,2004-01-25T08:00Z,False,4500000.0,La Quinta CC,7060,72,36
+150,FBR Open,2004,2004-01-29T08:00Z,2004-02-01T08:00Z,False,5200000.0,TPC Scottsdale,0,0,18
+151,AT&T Pebble Beach National Pro-Am,2004,2004-02-05T08:00Z,2004-02-08T08:00Z,False,5300000.0,Spyglass Hill GC,0,0,18
+151,AT&T Pebble Beach National Pro-Am,2004,2004-02-05T08:00Z,2004-02-08T08:00Z,False,5300000.0,Pebble Beach Golf Links,6822,72,18
+151,AT&T Pebble Beach National Pro-Am,2004,2004-02-05T08:00Z,2004-02-08T08:00Z,False,5300000.0,Poppy Hills GC,0,0,0
+152,Buick Invitational,2004,2004-02-12T08:00Z,2004-02-15T08:00Z,False,4800000.0,Torrey Pines North,0,0,18
+152,Buick Invitational,2004,2004-02-12T08:00Z,2004-02-15T08:00Z,False,4800000.0,Torrey Pines South,0,0,18
+154,Nissan Open,2004,2004-02-19T08:00Z,2004-02-22T08:00Z,False,4800000.0,Riviera Country Club,0,0,18
+189,WGC-Accenture Match Play Championship,2004,2004-02-25T08:00Z,2004-02-29T08:00Z,False,7000000.0,La Costa-South Course,7247,72,18
+148,Chrysler Classic of Tucson,2004,2004-02-26T08:00Z,2004-02-29T08:00Z,False,3000000.0,Omni Tucson National Golf Resort and Spa,7213,72,18
+155,Ford Championship at Doral,2004,2004-03-04T08:00Z,2004-03-07T08:00Z,False,5000000.0,Doral Golf Resort and Spa,0,0,0
+156,The Honda Classic,2004,2004-03-11T08:00Z,2004-03-14T08:00Z,False,5000000.0,The Country Club at Mirasol-Sunrise,7416,72,18
+157,Bay Hill Invitational Presented by MasterCard,2004,2004-03-18T08:00Z,2004-03-21T08:00Z,False,5000000.0,Bay Hill Club & Lodge,0,0,18
+159,THE PLAYERS Championship,2004,2004-03-25T08:00Z,2004-03-28T08:00Z,False,8000000.0,TPC Sawgrass,0,0,18
+160,BellSouth Classic,2004,2004-04-01T08:00Z,2004-04-04T08:00Z,False,4500000.0,TPC Sugarloaf,7311,72,54
+161,Masters Tournament,2004,2004-04-08T07:00Z,2004-04-11T07:00Z,True,6000000.0,Augusta National Golf Club,0,0,18
+162,MCI Heritage,2004,2004-04-15T07:00Z,2004-04-18T07:00Z,False,4800000.0,Harbour Town Golf Links,0,0,18
+158,HP Classic of New Orleans,2004,2004-04-29T07:00Z,2004-05-02T07:00Z,False,5100000.0,English Turn,7078,72,18
+192,Wachovia Championship,2004,2004-05-06T07:00Z,2004-05-09T07:00Z,False,5600000.0,Quail Hollow Club,0,0,18
+165,EDS Byron Nelson Championship,2004,2004-05-13T07:00Z,2004-05-16T07:00Z,False,5800000.0,TPC Four Seasons Resort,0,0,18
+165,EDS Byron Nelson Championship,2004,2004-05-13T07:00Z,2004-05-16T07:00Z,False,5800000.0,TPC Four Seasons-Cottonwood Valley,6847,70,18
+166,Bank of America Colonial,2004,2004-05-20T07:00Z,2004-05-23T07:00Z,False,5300000.0,Colonial CC,0,0,18
+171,FedEx St. Jude Classic,2004,2004-05-27T07:00Z,2004-05-30T07:00Z,False,4700000.0,TPC Southwind,0,0,18
+168,the Memorial Tournament,2004,2004-06-03T07:00Z,2004-06-06T07:00Z,False,5250000.0,Muirfield Village GC,0,0,18
+169,Buick Classic,2004,2004-06-10T07:00Z,2004-06-13T07:00Z,False,5250000.0,Westchester CC,6839,71,18
+167,Booz Allen Classic,2004,2004-06-24T07:00Z,2004-06-27T07:00Z,False,4800000.0,TPC Potomac at Avenel Farm,7005,71,18
+173,Cialis Western Open,2004,2004-07-01T07:00Z,2004-07-04T07:00Z,False,4800000.0,Cog Hill G&CC,0,0,18
+182,John Deere Classic,2004,2004-07-08T07:00Z,2004-07-11T07:00Z,False,3800000.0,TPC Deere Run,0,0,18
+183,B.C. Open,2004,2004-07-15T07:00Z,2004-07-18T07:00Z,False,3000000.0,En-Joie GC,6974,72,18
+180,U.S. Bank Championship in Milwaukee,2004,2004-07-22T07:00Z,2004-07-25T07:00Z,False,3500000.0,Brown Deer Park GC,0,0,18
+176,Buick Open,2004,2004-07-29T07:00Z,2004-08-01T07:00Z,False,4500000.0,Warwick Hills G&CC,0,0,18
+178,The INTERNATIONAL,2004,2004-08-05T07:00Z,2004-08-08T07:00Z,False,5000000.0,Castle Pines,7619,72,18
+179,WGC-NEC Invitational,2004,2004-08-19T07:00Z,2004-08-22T07:00Z,False,7000000.0,Montreux G&CC,7360,70,18
+179,WGC-NEC Invitational,2004,2004-08-19T07:00Z,2004-08-22T07:00Z,False,7000000.0,Firestone CC (South Course),0,0,0
+190,Reno-Tahoe Open,2004,2004-08-19T07:00Z,2004-08-22T07:00Z,False,3000000.0,Montreux G&CC,0,0,18
+190,Reno-Tahoe Open,2004,2004-08-19T07:00Z,2004-08-22T07:00Z,False,3000000.0,Firestone CC (South Course),7472,72,0
+172,Buick Championship,2004,2004-08-26T07:00Z,2004-08-29T07:00Z,False,4200000.0,TPC River Highlands,0,0,18
+193,Deutsche Bank Championship,2004,2004-09-03T07:00Z,2004-09-06T07:00Z,False,5000000.0,TPC Boston,0,0,18
+181,Bell Canadian Open,2004,2004-09-09T07:00Z,2004-09-12T07:00Z,False,4500000.0,Glen Abbey GC,0,0,18
+184,Valero Texas Open,2004,2004-09-16T07:00Z,2004-09-19T07:00Z,False,3500000.0,LaCantera GC,0,0,18
+187,84 LUMBER Classic,2004,2004-09-23T07:00Z,2004-09-26T07:00Z,False,4200000.0,Nemacolin-Mystic Rock Course,7516,72,18
+191,WGC-American Express Championship,2004,2004-09-30T07:00Z,2004-10-03T07:00Z,False,7000000.0,Mount Juliet,7256,72,18
+175,Southern Farm Bureau Classic,2004,2004-09-30T07:00Z,2004-10-03T07:00Z,False,3000000.0,Annandale GC,0,0,18
+194,Michelin Championship at Las Vegas,2004,2004-10-07T07:00Z,2004-10-10T07:00Z,False,4000000.0,TPC at Summerlin,0,0,18
+194,Michelin Championship at Las Vegas,2004,2004-10-07T07:00Z,2004-10-10T07:00Z,False,4000000.0,TPC at The Canyons,7063,71,18
+194,Michelin Championship at Las Vegas,2004,2004-10-07T07:00Z,2004-10-10T07:00Z,False,4000000.0,Bear's Best,7227,72,18
+163,Chrysler Classic of Greensboro,2004,2004-10-14T07:00Z,2004-10-17T07:00Z,False,4600000.0,Forest Oaks,7311,72,18
+185,FUNAI Classic at the WALT DISNEY WORLD Resort,2004,2004-10-21T07:00Z,2004-10-24T07:00Z,False,4200000.0,Magnolia GC,0,0,18
+185,FUNAI Classic at the WALT DISNEY WORLD Resort,2004,2004-10-21T07:00Z,2004-10-24T07:00Z,False,4200000.0,Palm GC,0,0,18
+188,Chrysler Championship,2004,2004-10-28T07:00Z,2004-10-31T07:00Z,False,5000000.0,Innisbrook Resort -Copperhead,0,0,36
+186,THE TOUR Championship presented by Coca-Cola,2004,2004-11-04T08:00Z,2004-11-07T08:00Z,False,6000000.0,East Lake Golf Club,0,0,18
+245,WGC-World Cup,2004,2004-11-18T08:00Z,2004-11-21T08:00Z,False,4000000.0,Real Club de Golf de Sevilla,7134,72,18
+196,Mercedes Championships,2005,2005-01-06T08:00Z,2005-01-09T08:00Z,False,5300000.0,Plantation Course,7411,73,18
+202,Sony Open in Hawaii,2005,2005-01-13T08:00Z,2005-01-16T08:00Z,False,4800000.0,Waialae CC,7044,70,18
+201,Buick Invitational,2005,2005-01-20T08:00Z,2005-01-23T08:00Z,False,4800000.0,Torrey Pines North,0,0,18
+201,Buick Invitational,2005,2005-01-20T08:00Z,2005-01-23T08:00Z,False,4800000.0,Torrey Pines South,0,0,18
+198,Bob Hope Chrysler Classic,2005,2005-01-26T08:00Z,2005-01-30T08:00Z,False,4700000.0,PGA West (Palmer),0,0,18
+198,Bob Hope Chrysler Classic,2005,2005-01-26T08:00Z,2005-01-30T08:00Z,False,4700000.0,Bermuda Dunes CC,0,0,18
+198,Bob Hope Chrysler Classic,2005,2005-01-26T08:00Z,2005-01-30T08:00Z,False,4700000.0,Indian Wells Celebrity Course,6478,72,18
+198,Bob Hope Chrysler Classic,2005,2005-01-26T08:00Z,2005-01-30T08:00Z,False,4700000.0,La Quinta CC,7060,72,36
+198,Bob Hope Chrysler Classic,2005,2005-01-26T08:00Z,2005-01-30T08:00Z,False,4700000.0,Tamarisk,6881,72,18
+199,FBR Open,2005,2005-02-03T08:00Z,2005-02-06T08:00Z,False,5200000.0,TPC Scottsdale,0,0,18
+200,AT&T Pebble Beach National Pro-Am,2005,2005-02-10T08:00Z,2005-02-13T08:00Z,False,5300000.0,Spyglass Hill GC,0,0,18
+200,AT&T Pebble Beach National Pro-Am,2005,2005-02-10T08:00Z,2005-02-13T08:00Z,False,5300000.0,Pebble Beach Golf Links,6822,72,18
+200,AT&T Pebble Beach National Pro-Am,2005,2005-02-10T08:00Z,2005-02-13T08:00Z,False,5300000.0,Poppy Hills GC,0,0,0
+203,Nissan Open,2005,2005-02-17T08:00Z,2005-02-20T08:00Z,False,4800000.0,Riviera Country Club,0,0,18
+240,WGC-Accenture Match Play Championship,2005,2005-02-23T08:00Z,2005-02-27T08:00Z,False,7500000.0,La Costa-South Course,7247,72,18
+197,Chrysler Classic of Tucson,2005,2005-02-24T08:00Z,2005-02-27T08:00Z,False,3000000.0,Omni Tucson National Golf Resort and Spa,7213,72,18
+204,Ford Championship at Doral,2005,2005-03-03T08:00Z,2005-03-06T08:00Z,False,5500000.0,Doral Golf Resort and Spa,0,0,0
+205,The Honda Classic,2005,2005-03-10T08:00Z,2005-03-13T08:00Z,False,5500000.0,The Country Club at Mirasol-Sunrise,7416,72,18
+206,Bay Hill Invitational Presented by MasterCard,2005,2005-03-17T08:00Z,2005-03-20T08:00Z,False,5000000.0,Bay Hill Club & Lodge,0,0,18
+208,THE PLAYERS Championship,2005,2005-03-24T08:00Z,2005-03-27T08:00Z,False,8000000.0,TPC Sawgrass,0,0,18
+209,BellSouth Classic,2005,2005-03-31T08:00Z,2005-04-03T08:00Z,False,5000000.0,TPC Sugarloaf,7311,72,54
+210,Masters Tournament,2005,2005-04-07T07:00Z,2005-04-10T07:00Z,True,7000000.0,Augusta National Golf Club,0,0,18
+211,MCI Heritage,2005,2005-04-14T07:00Z,2005-04-17T07:00Z,False,5200000.0,Harbour Town Golf Links,0,0,18
+213,Shell Houston Open,2005,2005-04-21T07:00Z,2005-04-24T07:00Z,False,5000000.0,Golf Club of Houston,7508,72,18
+207,Zurich Classic of New Orleans,2005,2005-04-28T07:00Z,2005-05-01T07:00Z,False,5500000.0,TPC of Louisiana,0,0,18
+243,Wachovia Championship,2005,2005-05-05T07:00Z,2005-05-08T07:00Z,False,6000000.0,Quail Hollow Club,0,0,18
+214,EDS Byron Nelson Championship,2005,2005-05-12T07:00Z,2005-05-15T07:00Z,False,6200000.0,TPC Four Seasons Resort,0,0,18
+214,EDS Byron Nelson Championship,2005,2005-05-12T07:00Z,2005-05-15T07:00Z,False,6200000.0,TPC Four Seasons-Cottonwood Valley,6847,70,18
+215,Bank of America Colonial,2005,2005-05-19T07:00Z,2005-05-22T07:00Z,False,5600000.0,Colonial CC,0,0,18
+220,FedEx St. Jude Classic,2005,2005-05-26T07:00Z,2005-05-29T07:00Z,False,4900000.0,TPC Southwind,0,0,18
+217,the Memorial Tournament,2005,2005-06-02T07:00Z,2005-06-05T07:00Z,False,5500000.0,Muirfield Village GC,0,0,18
+216,Booz Allen Classic,2005,2005-06-09T07:00Z,2005-06-12T07:00Z,False,5000000.0,Congressional Country Club,0,0,18
+219,U.S. Open Championship,2005,2005-06-16T07:00Z,2005-06-19T07:00Z,True,6250000.0,Glen Oaks Club,7214,70,0
+218,Barclays Classic,2005,2005-06-23T07:00Z,2005-06-26T07:00Z,False,5750000.0,Westchester CC,6839,71,18
+222,Cialis Western Open,2005,2005-06-30T07:00Z,2005-07-03T07:00Z,False,5000000.0,Cog Hill G&CC,0,0,18
+231,John Deere Classic,2005,2005-07-07T07:00Z,2005-07-10T07:00Z,False,4000000.0,TPC Deere Run,0,0,18
+233,B.C. Open,2005,2005-07-14T07:00Z,2005-07-17T07:00Z,False,3000000.0,En-Joie GC,6974,72,18
+223,British Open Championship,2005,2005-07-14T07:00Z,2005-07-17T07:00Z,True,6754555.0,St Andrews - Old Course,7279,72,0
+229,U.S. Bank Championship in Milwaukee,2005,2005-07-21T07:00Z,2005-07-24T07:00Z,False,3800000.0,Brown Deer Park GC,0,0,18
+225,Buick Open,2005,2005-07-28T07:00Z,2005-07-31T07:00Z,False,4600000.0,Warwick Hills G&CC,0,0,18
+227,The INTERNATIONAL,2005,2005-08-04T07:00Z,2005-08-07T07:00Z,False,5000000.0,Castle Pines,7619,72,18
+226,PGA Championship,2005,2005-08-11T07:00Z,2005-08-14T07:00Z,True,6250000.0,Baltusrol GC,7392,70,18
+228,WGC-NEC Invitational,2005,2005-08-18T07:00Z,2005-08-21T07:00Z,False,7500000.0,Firestone CC (South Course),0,0,0
+241,Reno-Tahoe Open,2005,2005-08-18T07:00Z,2005-08-21T07:00Z,False,3000000.0,Montreux G&CC,0,0,18
+221,Buick Championship,2005,2005-08-25T07:00Z,2005-08-28T07:00Z,False,4300000.0,TPC River Highlands,0,0,18
+244,Deutsche Bank Championship,2005,2005-09-02T07:00Z,2005-09-05T07:00Z,False,5500000.0,TPC Boston,0,0,18
+230,Bell Canadian Open,2005,2005-09-08T07:00Z,2005-09-11T07:00Z,False,5000000.0,Shaughnessy G&CC,7010,70,0
+238,84 LUMBER Classic,2005,2005-09-15T07:00Z,2005-09-18T07:00Z,False,4400000.0,Nemacolin-Mystic Rock Course,7516,72,18
+235,Valero Texas Open,2005,2005-09-22T07:00Z,2005-09-25T07:00Z,False,3500000.0,LaCantera GC,0,0,18
+212,Chrysler Classic of Greensboro,2005,2005-09-29T07:00Z,2005-10-02T07:00Z,False,5000000.0,Forest Oaks,7311,72,18
+242,WGC-American Express Championship,2005,2005-10-06T07:00Z,2005-10-09T07:00Z,False,7500000.0,TPC Harding Park,0,0,18
+234,Michelin Championship at Las Vegas,2005,2005-10-13T07:00Z,2005-10-16T07:00Z,False,4000000.0,TPC at Summerlin,0,0,18
+234,Michelin Championship at Las Vegas,2005,2005-10-13T07:00Z,2005-10-16T07:00Z,False,4000000.0,TPC at The Canyons,7063,71,18
+236,FUNAI Classic at the WALT DISNEY WORLD Resort,2005,2005-10-20T07:00Z,2005-10-23T07:00Z,False,4400000.0,Magnolia GC,0,0,18
+236,FUNAI Classic at the WALT DISNEY WORLD Resort,2005,2005-10-20T07:00Z,2005-10-23T07:00Z,False,4400000.0,Palm GC,0,0,18
+239,Chrysler Championship,2005,2005-10-27T07:00Z,2005-10-30T07:00Z,False,5300000.0,Innisbrook Resort -Copperhead,0,0,36
+237,THE TOUR Championship presented by Coca-Cola,2005,2005-11-03T08:00Z,2005-11-06T08:00Z,False,6500000.0,East Lake Golf Club,0,0,18
+224,Southern Farm Bureau Classic,2005,2005-11-03T08:00Z,2005-11-06T08:00Z,False,3000000.0,Annandale GC,0,0,18
+248,Mercedes Championships,2006,2006-01-05T08:00Z,2006-01-08T08:00Z,False,5400000.0,Plantation Course,7411,73,18
+254,Sony Open in Hawaii,2006,2006-01-12T08:00Z,2006-01-15T08:00Z,False,5100000.0,Waialae CC,7044,70,18
+250,Bob Hope Chrysler Classic,2006,2006-01-18T08:00Z,2006-01-22T08:00Z,False,5000000.0,PGA West (Palmer),0,0,18
+250,Bob Hope Chrysler Classic,2006,2006-01-18T08:00Z,2006-01-22T08:00Z,False,5000000.0,Bermuda Dunes CC,0,0,18
+250,Bob Hope Chrysler Classic,2006,2006-01-18T08:00Z,2006-01-22T08:00Z,False,5000000.0,La Quinta CC,7060,72,36
+250,Bob Hope Chrysler Classic,2006,2006-01-18T08:00Z,2006-01-22T08:00Z,False,5000000.0,The Classic Club,7305,72,18
+253,Buick Invitational,2006,2006-01-26T08:00Z,2006-01-29T08:00Z,False,5100000.0,Torrey Pines North,0,0,18
+253,Buick Invitational,2006,2006-01-26T08:00Z,2006-01-29T08:00Z,False,5100000.0,Torrey Pines South,0,0,18
+251,FBR Open,2006,2006-02-02T08:00Z,2006-02-05T08:00Z,False,5200000.0,TPC Scottsdale,0,0,18
+252,AT&T Pebble Beach National Pro-Am,2006,2006-02-09T08:00Z,2006-02-12T08:00Z,False,5400000.0,Spyglass Hill GC,0,0,18
+252,AT&T Pebble Beach National Pro-Am,2006,2006-02-09T08:00Z,2006-02-12T08:00Z,False,5400000.0,Pebble Beach Golf Links,6822,72,18
+252,AT&T Pebble Beach National Pro-Am,2006,2006-02-09T08:00Z,2006-02-12T08:00Z,False,5400000.0,Poppy Hills GC,0,0,0
+255,Nissan Open,2006,2006-02-16T08:00Z,2006-02-19T08:00Z,False,5100000.0,Riviera Country Club,0,0,18
+280,World Golf Championships-Accenture Match Play Cham,2006,2006-02-22T08:00Z,2006-02-26T08:00Z,False,7500000.0,La Costa-South Course,7247,72,18
+249,Chrysler Classic of Tucson,2006,2006-02-23T08:00Z,2006-02-26T08:00Z,False,3000000.0,Omni Tucson National Golf Resort and Spa,7213,72,18
+256,Ford Championship at Doral,2006,2006-03-02T08:00Z,2006-03-05T08:00Z,False,5500000.0,Doral Golf Resort and Spa,0,0,0
+257,The Honda Classic,2006,2006-03-09T08:00Z,2006-03-12T08:00Z,False,5500000.0,The Country Club at Mirasol-Sunrise,7416,72,18
+258,Bay Hill Invitational Presented by MasterCard,2006,2006-03-16T08:00Z,2006-03-19T08:00Z,False,5500000.0,Bay Hill Club & Lodge,0,0,18
+259,THE PLAYERS Championship,2006,2006-03-23T08:00Z,2006-03-26T08:00Z,False,8000000.0,TPC Sawgrass,0,0,18
+260,BellSouth Classic,2006,2006-03-30T08:00Z,2006-04-02T08:00Z,False,5300000.0,TPC Sugarloaf,7311,72,54
+261,Masters Tournament,2006,2006-04-06T07:00Z,2006-04-09T07:00Z,True,7000000.0,Augusta National Golf Club,0,0,18
+262,Verizon Heritage,2006,2006-04-13T07:00Z,2006-04-16T07:00Z,False,5300000.0,Harbour Town Golf Links,0,0,18
+263,Shell Houston Open,2006,2006-04-20T07:00Z,2006-04-23T07:00Z,False,5500000.0,Golf Club of Houston,0,0,18
+294,Zurich Classic of New Orleans,2006,2006-04-27T07:00Z,2006-04-30T07:00Z,False,6000000.0,English Turn,7078,72,18
+282,Wachovia Championship,2006,2006-05-04T07:00Z,2006-05-07T07:00Z,False,6300000.0,Quail Hollow Club,0,0,18
+264,EDS Byron Nelson Championship,2006,2006-05-11T07:00Z,2006-05-14T07:00Z,False,6200000.0,TPC Four Seasons Resort,0,0,18
+264,EDS Byron Nelson Championship,2006,2006-05-11T07:00Z,2006-05-14T07:00Z,False,6200000.0,TPC Four Seasons-Cottonwood Valley,6847,70,18
+265,Bank of America Colonial,2006,2006-05-18T07:00Z,2006-05-21T07:00Z,False,6000000.0,TPC Four Seasons Resort,7022,70,18
+265,Bank of America Colonial,2006,2006-05-18T07:00Z,2006-05-21T07:00Z,False,6000000.0,TPC Four Seasons-Cottonwood Valley,6847,70,18
+265,Bank of America Colonial,2006,2006-05-18T07:00Z,2006-05-21T07:00Z,False,6000000.0,Colonial CC,0,0,18
+270,FedEx St. Jude Classic,2006,2006-05-25T07:00Z,2006-05-28T07:00Z,False,5200000.0,TPC Southwind,0,0,18
+267,the Memorial Tournament,2006,2006-06-01T07:00Z,2006-06-04T07:00Z,False,5750000.0,Muirfield Village GC,0,0,18
+268,Barclays Classic,2006,2006-06-08T07:00Z,2006-06-11T07:00Z,False,5750000.0,Westchester CC,6839,71,18
+269,U.S. Open Championship,2006,2006-06-15T07:00Z,2006-06-18T07:00Z,True,6250000.0,Winged Foot GC,7264,70,18
+266,Booz Allen Classic,2006,2006-06-22T07:00Z,2006-06-25T07:00Z,False,5000000.0,TPC Potomac at Avenel Farm,7005,71,18
+271,Buick Championship,2006,2006-06-29T07:00Z,2006-07-02T07:00Z,False,4400000.0,TPC River Highlands,0,0,18
+272,Cialis Western Open,2006,2006-07-06T07:00Z,2006-07-09T07:00Z,False,5000000.0,Cog Hill G&CC,0,0,18
+278,John Deere Classic,2006,2006-07-13T07:00Z,2006-07-16T07:00Z,False,4000000.0,TPC Deere Run,0,0,18
+295,British Open Championship,2006,2006-07-20T07:00Z,2006-07-23T07:00Z,True,6750000.0,Royal Liverpool GC,7258,72,18
+279,B.C. Open presented by Turning Stone Resort,2006,2006-07-20T07:00Z,2006-07-23T07:00Z,False,3000000.0,Atunyote Golf Club,0,0,18
+276,U.S. Bank Championship in Milwaukee,2006,2006-07-27T07:00Z,2006-07-30T07:00Z,False,4000000.0,Brown Deer Park GC,0,0,18
+273,Buick Open,2006,2006-08-03T07:00Z,2006-08-06T07:00Z,False,4800000.0,Warwick Hills G&CC,0,0,18
+275,The INTERNATIONAL,2006,2006-08-10T07:00Z,2006-08-13T07:00Z,False,5500000.0,Castle Pines,7619,72,18
+274,PGA Championship,2006,2006-08-17T07:00Z,2006-08-20T07:00Z,True,6500000.0,Medinah CC,7561,72,18
+296,World Golf Championships-Bridgestone Invitational,2006,2006-08-24T07:00Z,2006-08-27T07:00Z,False,7500000.0,Firestone CC (South Course),0,0,0
+281,Reno-Tahoe Open,2006,2006-08-24T07:00Z,2006-08-27T07:00Z,False,3000000.0,Montreux G&CC,0,0,18
+283,Deutsche Bank Championship,2006,2006-09-01T07:00Z,2006-09-04T07:00Z,False,5500000.0,TPC Boston,0,0,18
+277,Canadian Open,2006,2006-09-07T07:00Z,2006-09-10T07:00Z,False,5000000.0,Hamilton Golf & Country Club,6946,70,18
+290,84 LUMBER Classic,2006,2006-09-14T07:00Z,2006-09-17T07:00Z,False,4600000.0,Nemacolin-Mystic Rock Course,7516,72,18
+287,Valero Texas Open,2006,2006-09-21T07:00Z,2006-09-24T07:00Z,False,4000000.0,LaCantera GC,0,0,18
+292,Ryder Cup,2006,2006-09-22T07:00Z,2006-09-24T07:00Z,False,null,Kildare G&CC,7337,72,18
+293,World Golf Championships-American Express Champion,2006,2006-09-28T07:00Z,2006-10-01T07:00Z,False,7500000.0,The Grove,7152,71,0
+285,Southern Farm Bureau Classic,2006,2006-09-28T07:00Z,2006-10-01T07:00Z,False,3000000.0,Annandale GC,0,0,18
+284,Chrysler Classic of Greensboro,2006,2006-10-05T07:00Z,2006-10-08T07:00Z,False,5000000.0,Forest Oaks,7311,72,18
+286,Frys.com Open,2006,2006-10-12T07:00Z,2006-10-15T07:00Z,False,4000000.0,TPC at Summerlin,0,0,18
+286,Frys.com Open,2006,2006-10-12T07:00Z,2006-10-15T07:00Z,False,4000000.0,TPC at The Canyons,7063,71,18
+288,FUNAI Classic at the WALT DISNEY WORLD Resort,2006,2006-10-19T07:00Z,2006-10-22T07:00Z,False,4600000.0,Magnolia GC,0,0,18
+288,FUNAI Classic at the WALT DISNEY WORLD Resort,2006,2006-10-19T07:00Z,2006-10-22T07:00Z,False,4600000.0,Palm GC,0,0,18
+291,Chrysler Championship,2006,2006-10-26T07:00Z,2006-10-29T07:00Z,False,5300000.0,Innisbrook Resort -Copperhead,0,0,36
+289,THE TOUR Championship presented by Coca-Cola,2006,2006-11-02T08:00Z,2006-11-05T08:00Z,False,6500000.0,East Lake Golf Club,0,0,18
+345,WGC-World Cup,2006,2006-12-07T08:00Z,2006-12-10T08:00Z,False,4000000.0,Sandy Lane Resort & Country Club,7173,72,0
+297,Mercedes-Benz Championship,2007,2007-01-04T08:00Z,2007-01-07T08:00Z,False,5500000.0,Plantation Course,7411,73,18
+302,Sony Open in Hawaii,2007,2007-01-11T08:00Z,2007-01-14T08:00Z,False,5200000.0,Waialae CC,7044,70,18
+298,Bob Hope Chrysler Classic,2007,2007-01-17T08:00Z,2007-01-21T08:00Z,False,5000000.0,PGA West (Palmer),0,0,18
+298,Bob Hope Chrysler Classic,2007,2007-01-17T08:00Z,2007-01-21T08:00Z,False,5000000.0,Bermuda Dunes CC,6958,72,18
+298,Bob Hope Chrysler Classic,2007,2007-01-17T08:00Z,2007-01-21T08:00Z,False,5000000.0,La Quinta CC,7060,72,36
+298,Bob Hope Chrysler Classic,2007,2007-01-17T08:00Z,2007-01-21T08:00Z,False,5000000.0,The Classic Club,7305,72,18
+301,Buick Invitational,2007,2007-01-25T08:00Z,2007-01-28T08:00Z,False,5200000.0,Torrey Pines North,0,0,18
+301,Buick Invitational,2007,2007-01-25T08:00Z,2007-01-28T08:00Z,False,5200000.0,Torrey Pines South,0,0,18
+299,FBR Open,2007,2007-02-01T08:00Z,2007-02-04T08:00Z,False,6000000.0,TPC Scottsdale,0,0,18
+300,AT&T Pebble Beach National Pro-Am,2007,2007-02-08T08:00Z,2007-02-11T08:00Z,False,5500000.0,Spyglass Hill GC,0,0,18
+300,AT&T Pebble Beach National Pro-Am,2007,2007-02-08T08:00Z,2007-02-11T08:00Z,False,5500000.0,Pebble Beach Golf Links,6822,72,18
+300,AT&T Pebble Beach National Pro-Am,2007,2007-02-08T08:00Z,2007-02-11T08:00Z,False,5500000.0,Poppy Hills GC,0,0,0
+303,Nissan Open,2007,2007-02-15T08:00Z,2007-02-18T08:00Z,False,5200000.0,Riviera Country Club,0,0,18
+331,World Golf Championships-Accenture Match Play Cham,2007,2007-02-21T08:00Z,2007-02-25T08:00Z,False,8000000.0,The Golf Club at Dove Mountain,0,0,18
+335,Mayakoba Golf Classic at Riviera Maya-Cancun,2007,2007-02-22T08:00Z,2007-02-25T08:00Z,False,3500000.0,El Camaleon GC,0,0,18
+304,The Honda Classic,2007,2007-03-01T08:00Z,2007-03-04T08:00Z,False,5500000.0,PGA National Champion Course,0,0,18
+343,PODS Championship,2007,2007-03-08T08:00Z,2007-03-11T08:00Z,False,5300000.0,Innisbrook Resort -Copperhead,0,0,36
+305,Arnold Palmer Invitational presented by MasterCard,2007,2007-03-15T07:00Z,2007-03-18T07:00Z,False,5500000.0,Bay Hill Club & Lodge,0,0,18
+344,World Golf Championships-CA Championship,2007,2007-03-22T07:00Z,2007-03-25T07:00Z,False,8000000.0,Doral Golf Resort and Spa,0,0,0
+311,Shell Houston Open,2007,2007-03-29T07:00Z,2007-04-01T07:00Z,False,5500000.0,Golf Club of Houston,0,0,18
+309,Masters Tournament,2007,2007-04-05T07:00Z,2007-04-08T07:00Z,True,7000000.0,Augusta National Golf Club,0,0,18
+310,Verizon Heritage,2007,2007-04-12T07:00Z,2007-04-15T07:00Z,False,5400000.0,Harbour Town Golf Links,0,0,18
+306,Zurich Classic of New Orleans,2007,2007-04-19T07:00Z,2007-04-22T07:00Z,False,6100000.0,TPC of Louisiana,0,0,18
+312,EDS Byron Nelson Championship,2007,2007-04-26T07:00Z,2007-04-29T07:00Z,False,6300000.0,TPC Four Seasons Resort,0,0,18
+312,EDS Byron Nelson Championship,2007,2007-04-26T07:00Z,2007-04-29T07:00Z,False,6300000.0,TPC Four Seasons-Cottonwood Valley,6847,70,18
+333,Wachovia Championship,2007,2007-05-03T07:00Z,2007-05-06T07:00Z,False,6300000.0,Quail Hollow Club,0,0,18
+307,THE PLAYERS Championship,2007,2007-05-10T07:00Z,2007-05-13T07:00Z,False,9000000.0,TPC Sawgrass,0,0,18
+308,AT&T Classic,2007,2007-05-17T07:00Z,2007-05-20T07:00Z,False,5400000.0,TPC Sugarloaf,7311,72,54
+313,Crowne Plaza Invitational at Colonial,2007,2007-05-24T07:00Z,2007-05-27T07:00Z,False,6000000.0,Colonial CC,0,0,18
+314,the Memorial Tournament presented by Morgan Stanle,2007,2007-05-31T07:00Z,2007-06-03T07:00Z,False,6000000.0,Muirfield Village GC,0,0,18
+314,the Memorial Tournament presented by Morgan Stanle,2007,2007-05-31T07:00Z,2007-06-03T07:00Z,False,6000000.0,TPC Southwind,7244,70,18
+314,the Memorial Tournament presented by Morgan Stanle,2007,2007-05-31T07:00Z,2007-06-03T07:00Z,False,6000000.0,MUIRFIELD,7034,71,18
+317,Stanford St. Jude Championship,2007,2007-06-07T07:00Z,2007-06-10T07:00Z,False,6000000.0,TPC Southwind,0,0,18
+317,Stanford St. Jude Championship,2007,2007-06-07T07:00Z,2007-06-10T07:00Z,False,6000000.0,MUIRFIELD,7034,71,18
+316,U.S. Open Championship,2007,2007-06-14T07:00Z,2007-06-17T07:00Z,True,7000000.0,Oakmont Country Club,7355,70,0
+318,Travelers Championship,2007,2007-06-21T07:00Z,2007-06-24T07:00Z,False,6000000.0,TPC River Highlands,0,0,18
+321,Buick Open,2007,2007-06-28T07:00Z,2007-07-01T07:00Z,False,4900000.0,Warwick Hills G&CC,0,0,18
+346,AT&T National,2007,2007-07-05T07:00Z,2007-07-08T07:00Z,False,6000000.0,Congressional Country Club,0,0,18
+327,John Deere Classic,2007,2007-07-12T07:00Z,2007-07-15T07:00Z,False,4100000.0,TPC Deere Run,0,0,18
+320,British Open Championship,2007,2007-07-19T07:00Z,2007-07-22T07:00Z,True,8637720.0,Carnoustie Golf Links,7421,71,0
+320,British Open Championship,2007,2007-07-19T07:00Z,2007-07-22T07:00Z,True,8637720.0,Carnoustie - Championship Course,7421,71,18
+325,U.S. Bank Championship in Milwaukee,2007,2007-07-19T07:00Z,2007-07-22T07:00Z,False,4000000.0,Brown Deer Park GC,0,0,18
+326,Canadian Open presented by Franklin Templeton Inve,2007,2007-07-26T07:00Z,2007-07-29T07:00Z,False,5000000.0,Angus Glen,7320,71,18
+324,World Golf Championships-Bridgestone Invitational,2007,2007-08-02T07:00Z,2007-08-05T07:00Z,False,8000000.0,Firestone CC (South Course),0,0,0
+332,Reno-Tahoe Open,2007,2007-08-02T07:00Z,2007-08-05T07:00Z,False,3000000.0,Montreux G&CC,0,0,18
+322,PGA Championship,2007,2007-08-09T07:00Z,2007-08-12T07:00Z,True,7000000.0,Southern Hills Course One,7131,70,18
+339,Wyndham Championship,2007,2007-08-16T07:00Z,2007-08-19T07:00Z,False,5000000.0,Forest Oaks,7311,72,18
+315,The Barclays,2007,2007-08-23T07:00Z,2007-08-26T07:00Z,False,7000000.0,Westchester CC,6839,71,18
+334,Deutsche Bank Championship,2007,2007-08-31T07:00Z,2007-09-03T07:00Z,False,7000000.0,TPC Boston,0,0,18
+319,BMW Championship,2007,2007-09-06T07:00Z,2007-09-09T07:00Z,False,7000000.0,Cog Hill G&CC,0,0,18
+330,THE TOUR Championship presented by Coca-Cola,2007,2007-09-13T07:00Z,2007-09-16T07:00Z,False,7000000.0,East Lake Golf Club,0,0,18
+336,Turning Stone Resort Championship,2007,2007-09-20T07:00Z,2007-09-23T07:00Z,False,6000000.0,Atunyote Golf Club,0,0,18
+341,The Presidents Cup,2007,2007-09-27T07:00Z,2007-09-30T07:00Z,False,null,Royal Montreal GC(Blue Course),7153,70,18
+340,Viking Classic,2007,2007-09-27T07:00Z,2007-09-30T07:00Z,False,3500000.0,Annandale GC,0,0,18
+329,Valero Texas Open,2007,2007-10-04T07:00Z,2007-10-07T07:00Z,False,4500000.0,LaCantera GC,0,0,18
+328,Frys.com Open benefiting Shriners Hospitals for Ch,2007,2007-10-11T07:00Z,2007-10-14T07:00Z,False,4000000.0,TPC at Summerlin,0,0,18
+328,Frys.com Open benefiting Shriners Hospitals for Ch,2007,2007-10-11T07:00Z,2007-10-14T07:00Z,False,4000000.0,TPC at The Canyons,7063,71,18
+337,Fry's Electronics Open,2007,2007-10-18T07:00Z,2007-10-21T07:00Z,False,5000000.0,Grayhawk Golf Club - Raptor,0,0,18
+409,Ginn sur Mer Classic at Tesoro,2007,2007-10-25T07:00Z,2007-10-28T07:00Z,False,4500000.0,Tesoro Club - Arnold Palmer Course,7381,73,18
+342,Children's Miracle Network Classic presented by Wa,2007,2007-11-01T07:00Z,2007-11-04T07:00Z,False,4600000.0,Magnolia GC,0,0,18
+342,Children's Miracle Network Classic presented by Wa,2007,2007-11-01T07:00Z,2007-11-04T07:00Z,False,4600000.0,Palm GC,0,0,18
+460,PGA TOUR Qualifying Tournament,2007,2007-11-28T08:00Z,2007-12-03T08:00Z,False,1057500.0,Panther Lake Golf Course,7350,72,0
+460,PGA TOUR Qualifying Tournament,2007,2007-11-28T08:00Z,2007-12-03T08:00Z,False,1057500.0,Crooked Cat Course,7277,72,0
+413,Mercedes-Benz Championship,2008,2008-01-03T08:00Z,2008-01-06T08:00Z,False,5500000.0,Plantation Course,7411,73,18
+418,Sony Open in Hawaii,2008,2008-01-10T08:00Z,2008-01-13T08:00Z,False,5300000.0,Waialae CC,7044,70,18
+414,Bob Hope Chrysler Classic,2008,2008-01-16T08:00Z,2008-01-20T08:00Z,False,5100000.0,PGA West (Palmer),0,0,18
+414,Bob Hope Chrysler Classic,2008,2008-01-16T08:00Z,2008-01-20T08:00Z,False,5100000.0,La Quinta CC,7060,72,36
+414,Bob Hope Chrysler Classic,2008,2008-01-16T08:00Z,2008-01-20T08:00Z,False,5100000.0,The Classic Club,7305,72,18
+414,Bob Hope Chrysler Classic,2008,2008-01-16T08:00Z,2008-01-20T08:00Z,False,5100000.0,Silver Rock,0,0,18
+417,Buick Invitational,2008,2008-01-24T08:00Z,2008-01-27T08:00Z,False,5200000.0,Torrey Pines North,0,0,18
+417,Buick Invitational,2008,2008-01-24T08:00Z,2008-01-27T08:00Z,False,5200000.0,Torrey Pines South,0,0,18
+415,FBR Open,2008,2008-01-31T08:00Z,2008-02-03T08:00Z,False,6000000.0,TPC Scottsdale,0,0,18
+416,AT&T Pebble Beach National Pro-Am,2008,2008-02-07T08:00Z,2008-02-10T08:00Z,False,6000000.0,Spyglass Hill GC,0,0,18
+416,AT&T Pebble Beach National Pro-Am,2008,2008-02-07T08:00Z,2008-02-10T08:00Z,False,6000000.0,Pebble Beach Golf Links,6822,72,18
+416,AT&T Pebble Beach National Pro-Am,2008,2008-02-07T08:00Z,2008-02-10T08:00Z,False,6000000.0,Poppy Hills GC,0,0,0
+419,Northern Trust Open,2008,2008-02-14T08:00Z,2008-02-17T08:00Z,False,6200000.0,Riviera Country Club,0,0,18
+412,World Golf Championships-Accenture Match Play Cham,2008,2008-02-20T08:00Z,2008-02-24T08:00Z,False,8000000.0,The Golf Club at Dove Mountain,0,0,18
+454,Mayakoba Golf Classic at Riviera Maya-Cancun,2008,2008-02-21T08:00Z,2008-02-24T08:00Z,False,3500000.0,El Camaleon GC,0,0,18
+420,The Honda Classic,2008,2008-02-28T08:00Z,2008-03-02T08:00Z,False,5500000.0,PGA National Champion Course,0,0,18
+448,PODS Championship,2008,2008-03-06T08:00Z,2008-03-09T08:00Z,False,5300000.0,Innisbrook Resort -Copperhead,0,0,36
+421,Arnold Palmer Invitational presented by MasterCard,2008,2008-03-13T07:00Z,2008-03-16T07:00Z,False,5800000.0,Bay Hill Club & Lodge,0,0,18
+451,World Golf Championships-CA Championship,2008,2008-03-20T07:00Z,2008-03-23T07:00Z,False,8000000.0,Doral Golf Resort and Spa,0,0,0
+459,Puerto Rico Open presented by Banco Popular,2008,2008-03-20T07:00Z,2008-03-23T07:00Z,False,3500000.0,Grand Reserve Country Club,0,0,18
+422,Zurich Classic of New Orleans,2008,2008-03-27T07:00Z,2008-03-30T07:00Z,False,6200000.0,TPC of Louisiana,0,0,18
+428,Shell Houston Open,2008,2008-04-03T07:00Z,2008-04-06T07:00Z,False,5600000.0,Golf Club of Houston,0,0,18
+428,Shell Houston Open,2008,2008-04-03T07:00Z,2008-04-06T07:00Z,False,5600000.0,TPC of Louisiana,7341,72,18
+425,Masters Tournament,2008,2008-04-10T07:00Z,2008-04-13T07:00Z,True,7000000.0,Augusta National Golf Club,0,0,18
+426,Verizon Heritage,2008,2008-04-17T07:00Z,2008-04-20T07:00Z,False,5500000.0,Harbour Town Golf Links,0,0,18
+429,EDS Byron Nelson Championship,2008,2008-04-24T07:00Z,2008-04-27T07:00Z,False,6400000.0,TPC Four Seasons Resort,0,0,18
+429,EDS Byron Nelson Championship,2008,2008-04-24T07:00Z,2008-04-27T07:00Z,False,6400000.0,TPC Four Seasons-Cottonwood Valley,6847,70,18
+452,Wachovia Championship,2008,2008-05-01T07:00Z,2008-05-04T07:00Z,False,6400000.0,Quail Hollow Club,0,0,18
+423,THE PLAYERS Championship,2008,2008-05-08T07:00Z,2008-05-11T07:00Z,False,9500000.0,TPC Sawgrass,0,0,18
+424,AT&T Classic,2008,2008-05-15T07:00Z,2008-05-18T07:00Z,False,5500000.0,TPC Sugarloaf,7311,72,54
+430,Crowne Plaza Invitational at Colonial,2008,2008-05-22T07:00Z,2008-05-25T07:00Z,False,6100000.0,Colonial CC,0,0,18
+431,the Memorial Tournament presented by Morgan Stanle,2008,2008-05-29T07:00Z,2008-06-01T07:00Z,False,6000000.0,Muirfield Village GC,0,0,18
+434,Stanford St. Jude Championship,2008,2008-06-05T07:00Z,2008-06-08T07:00Z,False,6000000.0,TPC Southwind,0,0,18
+433,U.S. Open Championship,2008,2008-06-12T07:00Z,2008-06-15T07:00Z,True,7000000.0,Torrey Pines (South Course),7643,71,18
+435,Travelers Championship,2008,2008-06-19T07:00Z,2008-06-22T07:00Z,False,6000000.0,TPC River Highlands,0,0,18
+438,Buick Open,2008,2008-06-26T07:00Z,2008-06-29T07:00Z,False,5000000.0,Warwick Hills G&CC,0,0,18
+457,AT&T National,2008,2008-07-03T07:00Z,2008-07-06T07:00Z,False,6000000.0,Congressional Country Club,0,0,18
+443,John Deere Classic,2008,2008-07-10T07:00Z,2008-07-13T07:00Z,False,4200000.0,TPC Deere Run,0,0,18
+411,British Open Championship,2008,2008-07-17T07:00Z,2008-07-20T07:00Z,True,8600000.0,Royal Birkdale GC,7173,70,0
+441,U.S. Bank Championship in Milwaukee,2008,2008-07-17T07:00Z,2008-07-20T07:00Z,False,4000000.0,Brown Deer Park GC,0,0,18
+442,RBC Canadian Open,2008,2008-07-24T07:00Z,2008-07-27T07:00Z,False,5000000.0,Glen Abbey GC,0,0,18
+440,World Golf Championships-Bridgestone Invitational,2008,2008-07-31T07:00Z,2008-08-03T07:00Z,False,8000000.0,Firestone CC (South Course),0,0,0
+450,Legends Reno-Tahoe Open,2008,2008-07-31T07:00Z,2008-08-03T07:00Z,False,3000000.0,Montreux G&CC,0,0,18
+439,PGA Championship,2008,2008-08-07T07:00Z,2008-08-10T07:00Z,True,7500000.0,Oakland Hills CC (South),7395,70,18
+427,Wyndham Championship,2008,2008-08-14T07:00Z,2008-08-17T07:00Z,False,5100000.0,Sedgefield Country Club,7117,70,18
+432,The Barclays,2008,2008-08-21T07:00Z,2008-08-24T07:00Z,False,7000000.0,Ridgewood Country Club,7319,71,18
+453,Deutsche Bank Championship,2008,2008-08-29T07:00Z,2008-09-01T07:00Z,False,7000000.0,TPC Boston,0,0,18
+436,BMW Championship,2008,2008-09-04T07:00Z,2008-09-07T07:00Z,False,7000000.0,Bellerive Country Club,7324,70,18
+449,Ryder Cup,2008,2008-09-18T07:00Z,2008-09-21T07:00Z,False,null,Valhalla GC,7496,71,18
+437,Viking Classic,2008,2008-09-18T07:00Z,2008-09-21T07:00Z,False,3600000.0,Annandale GC,0,0,18
+447,THE TOUR Championship presented by Coca-Cola,2008,2008-09-25T07:00Z,2008-09-28T07:00Z,False,7000000.0,East Lake Golf Club,0,0,18
+455,Turning Stone Resort Championship,2008,2008-10-02T07:00Z,2008-10-05T07:00Z,False,6000000.0,Atunyote Golf Club,0,0,18
+445,Valero Texas Open,2008,2008-10-09T07:00Z,2008-10-12T07:00Z,False,4500000.0,LaCantera GC,0,0,18
+444,Justin Timberlake Shriners Hospitals for Children ,2008,2008-10-16T07:00Z,2008-10-19T07:00Z,False,4100000.0,TPC at Summerlin,0,0,18
+456,Frys.com Open,2008,2008-10-23T07:00Z,2008-10-26T07:00Z,False,5000000.0,Grayhawk Golf Club - Raptor,0,0,18
+458,Ginn sur Mer Classic,2008,2008-10-30T07:00Z,2008-11-02T07:00Z,False,4600000.0,Hammock Beach - The Conservatory,7663,72,18
+446,Children's Miracle Network Classic presented by Wa,2008,2008-11-06T08:00Z,2008-11-09T08:00Z,False,4600000.0,Magnolia GC,0,0,18
+446,Children's Miracle Network Classic presented by Wa,2008,2008-11-06T08:00Z,2008-11-09T08:00Z,False,4600000.0,Palm GC,0,0,18
+594,PGA Tour Qualifying Tournament,2008,2008-12-03T08:00Z,2008-12-08T08:00Z,False,1057500.0,Jack Nicklaus Tournament,0,0,18
+594,PGA Tour Qualifying Tournament,2008,2008-12-03T08:00Z,2008-12-08T08:00Z,False,1057500.0,Stadium Course,7261,72,0
+526,Mercedes-Benz Championship,2009,2009-01-08T08:00Z,2009-01-11T08:00Z,False,5600000.0,Plantation Course,7411,73,18
+531,Sony Open in Hawaii,2009,2009-01-15T08:00Z,2009-01-18T08:00Z,False,5400000.0,Waialae CC,7044,70,18
+527,The 50th Bob Hope Classic hosted by Arnold Palmer,2009,2009-01-21T08:00Z,2009-01-25T08:00Z,False,5100000.0,PGA West (Palmer),6930,72,18
+527,The 50th Bob Hope Classic hosted by Arnold Palmer,2009,2009-01-21T08:00Z,2009-01-25T08:00Z,False,5100000.0,Bermuda Dunes CC,7017,72,18
+527,The 50th Bob Hope Classic hosted by Arnold Palmer,2009,2009-01-21T08:00Z,2009-01-25T08:00Z,False,5100000.0,Silver Rock,7403,72,18
+527,The 50th Bob Hope Classic hosted by Arnold Palmer,2009,2009-01-21T08:00Z,2009-01-25T08:00Z,False,5100000.0,Jack Nicklaus Tournament,6924,72,18
+528,FBR Open,2009,2009-01-29T08:00Z,2009-02-01T08:00Z,False,6000000.0,TPC Scottsdale,7216,71,18
+530,Buick Invitational,2009,2009-02-05T08:00Z,2009-02-08T08:00Z,False,5300000.0,Torrey Pines North,6915,72,18
+530,Buick Invitational,2009,2009-02-05T08:00Z,2009-02-08T08:00Z,False,5300000.0,Torrey Pines South,7628,72,18
+529,AT&T Pebble Beach National Pro-Am,2009,2009-02-12T08:00Z,2009-02-15T08:00Z,False,6100000.0,Spyglass Hill GC,6953,72,18
+529,AT&T Pebble Beach National Pro-Am,2009,2009-02-12T08:00Z,2009-02-15T08:00Z,False,6100000.0,Pebble Beach Golf Links,6816,72,18
+529,AT&T Pebble Beach National Pro-Am,2009,2009-02-12T08:00Z,2009-02-15T08:00Z,False,6100000.0,Poppy Hills GC,6944,72,0
+532,Northern Trust Open,2009,2009-02-19T08:00Z,2009-02-22T08:00Z,False,6300000.0,Riviera Country Club,7279,71,18
+560,World Golf Championships-Accenture Match Play Championship,2009,2009-02-25T08:00Z,2009-03-01T08:00Z,False,8500000.0,The Golf Club at Dove Mountain,7849,72,18
+565,Mayakoba Golf Classic at Riviera Maya-Cancun,2009,2009-02-26T08:00Z,2009-03-01T08:00Z,False,3600000.0,El Camaleon GC,6923,70,18
+533,The Honda Classic,2009,2009-03-05T08:00Z,2009-03-08T08:00Z,False,5600000.0,PGA National Champion Course,7158,70,18
+562,World Golf Championships-CA Championship,2009,2009-03-12T07:00Z,2009-03-15T07:00Z,False,8500000.0,Doral Golf Resort and Spa,7266,72,0
+567,Puerto Rico Open presented by Banco Popular,2009,2009-03-12T07:00Z,2009-03-15T07:00Z,False,3500000.0,Grand Reserve Country Club,7526,72,18
+559,Transitions Championship,2009,2009-03-19T07:00Z,2009-03-22T07:00Z,False,5400000.0,Innisbrook Resort -Copperhead,7340,71,36
+534,Arnold Palmer Invitational presented by MasterCard,2009,2009-03-26T07:00Z,2009-03-29T07:00Z,False,6000000.0,Bay Hill Club & Lodge,7167,70,18
+540,Shell Houston Open,2009,2009-04-02T07:00Z,2009-04-05T07:00Z,False,5700000.0,Golf Club of Houston,7457,72,18
+537,The Masters,2009,2009-04-09T07:00Z,2009-04-12T07:00Z,True,7000000.0,Augusta National Golf Club,7435,72,18
+538,Verizon Heritage,2009,2009-04-16T07:00Z,2009-04-19T07:00Z,False,5700000.0,Harbour Town Golf Links,6973,71,18
+535,Zurich Classic of New Orleans,2009,2009-04-23T07:00Z,2009-04-26T07:00Z,False,6300000.0,TPC of Louisiana,7399,72,18
+563,Quail Hollow Championship,2009,2009-04-30T07:00Z,2009-05-03T07:00Z,False,6500000.0,Quail Hollow Club,7442,72,18
+536,THE PLAYERS Championship,2009,2009-05-07T07:00Z,2009-05-10T07:00Z,False,9500000.0,TPC Sawgrass,7215,72,18
+557,Valero Texas Open,2009,2009-05-14T07:00Z,2009-05-17T07:00Z,False,6100000.0,LaCantera GC,6881,70,18
+541,HP Byron Nelson Championship,2009,2009-05-21T07:00Z,2009-05-24T07:00Z,False,6500000.0,TPC Four Seasons Resort,7166,70,18
+542,Crowne Plaza Invitational at Colonial,2009,2009-05-28T07:00Z,2009-05-31T07:00Z,False,6200000.0,Colonial CC,7204,70,18
+543,the Memorial Tournament,2009,2009-06-04T07:00Z,2009-06-07T07:00Z,False,6000000.0,Muirfield Village GC,7366,72,18
+546,St. Jude Classic presented by FedEx,2009,2009-06-11T07:00Z,2009-06-14T07:00Z,False,5600000.0,TPC Southwind,7239,70,18
+545,U.S. Open Championship,2009,2009-06-18T07:00Z,2009-06-22T07:00Z,True,7500000.0,Bethpage State Park,7445,70,18
+547,Travelers Championship,2009,2009-06-25T07:00Z,2009-06-28T07:00Z,False,6000000.0,TPC River Highlands,6837,70,18
+566,AT&T National,2009,2009-07-02T07:00Z,2009-07-05T07:00Z,False,6000000.0,Congressional Country Club,7255,70,18
+555,John Deere Classic,2009,2009-07-09T07:00Z,2009-07-12T07:00Z,False,4300000.0,TPC Deere Run,7268,71,18
+549,British Open Championship,2009,2009-07-16T07:00Z,2009-07-19T07:00Z,True,8600000.0,The Ailsa Championship Course,7204,70,18
+553,U.S. Bank Championship in Milwaukee,2009,2009-07-16T07:00Z,2009-07-19T07:00Z,False,4000000.0,Brown Deer Park GC,6759,70,18
+554,RBC Canadian Open,2009,2009-07-23T07:00Z,2009-07-27T07:00Z,False,5100000.0,Glen Abbey GC,7253,72,18
+550,Buick Open,2009,2009-07-30T07:00Z,2009-08-02T07:00Z,False,5100000.0,Warwick Hills G&CC,7127,72,18
+552,World Golf Championships-Bridgestone Invitational,2009,2009-08-06T07:00Z,2009-08-09T07:00Z,False,8500000.0,Firestone CC (South Course),7400,70,0
+561,Legends Reno-Tahoe Open,2009,2009-08-06T07:00Z,2009-08-09T07:00Z,False,3000000.0,Montreux G&CC,7472,72,18
+551,PGA Championship,2009,2009-08-13T07:00Z,2009-08-16T07:00Z,True,7500000.0,Hazeltine National Golf Club,7674,72,0
+539,Wyndham Championship,2009,2009-08-20T07:00Z,2009-08-23T07:00Z,False,5100000.0,Sedgefield Country Club,7117,70,18
+544,The Barclays,2009,2009-08-27T07:00Z,2009-08-30T07:00Z,False,7500000.0,Liberty National Golf Club,7419,71,18
+564,Deutsche Bank Championship,2009,2009-09-04T07:00Z,2009-09-07T07:00Z,False,7500000.0,TPC Boston,7202,71,18
+548,BMW Championship,2009,2009-09-10T07:00Z,2009-09-13T07:00Z,False,7500000.0,Cog Hill G&CC,7616,71,18
+558,THE TOUR Championship presented by Coca-Cola,2009,2009-09-24T07:00Z,2009-09-27T07:00Z,False,7500000.0,East Lake Golf Club,7304,70,18
+627,Turning Stone Resort Championship,2009,2009-10-01T07:00Z,2009-10-05T07:00Z,False,6000000.0,Atunyote Golf Club,7482,72,18
+556,The Presidents Cup,2009,2009-10-08T07:00Z,2009-10-11T07:00Z,False,null,TPC Harding Park,7137,71,18
+625,Justin Timberlake Shriners Hospitals for Children Open,2009,2009-10-15T07:00Z,2009-10-18T07:00Z,False,4200000.0,TPC at Summerlin,7223,71,18
+628,Frys.com Open,2009,2009-10-22T07:00Z,2009-10-25T07:00Z,False,5000000.0,Grayhawk Golf Club - Raptor,7125,70,18
+624,Viking Classic,2009,2009-10-29T07:00Z,2009-11-01T07:00Z,False,null,Annandale GC,7199,72,18
+626,Children's Miracle Network Classic,2009,2009-11-12T08:00Z,2009-11-15T08:00Z,False,4700000.0,Magnolia GC,7516,72,18
+626,Children's Miracle Network Classic,2009,2009-11-12T08:00Z,2009-11-15T08:00Z,False,4700000.0,Palm GC,7010,72,18
+699,PGA Tour Qualifying Tournament,2009,2009-12-02T08:00Z,2009-12-07T08:00Z,False,1057500.0,Bear Lake Country Club Links Course,7392,72,0
+699,PGA Tour Qualifying Tournament,2009,2009-12-02T08:00Z,2009-12-07T08:00Z,False,1057500.0,Bear Lake Country Club Lakes Course,7439,72,0
+764,Hyundai Tournament of Champions,2010,2010-01-07T08:00Z,2010-01-10T08:00Z,False,5600000.0,Plantation Course,0,0,18
+769,Sony Open in Hawaii,2010,2010-01-14T08:00Z,2010-01-17T08:00Z,False,5500000.0,Waialae CC,0,0,18
+765,Bob Hope Classic,2010,2010-01-20T08:00Z,2010-01-25T08:00Z,False,5000000.0,PGA West (Palmer),0,0,18
+765,Bob Hope Classic,2010,2010-01-20T08:00Z,2010-01-25T08:00Z,False,5000000.0,La Quinta CC,0,0,36
+765,Bob Hope Classic,2010,2010-01-20T08:00Z,2010-01-25T08:00Z,False,5000000.0,Silver Rock,0,0,18
+765,Bob Hope Classic,2010,2010-01-20T08:00Z,2010-01-25T08:00Z,False,5000000.0,Jack Nicklaus Tournament,0,0,18
+768,Farmers Insurance Open,2010,2010-01-28T08:00Z,2010-01-31T08:00Z,False,5300000.0,Torrey Pines North,0,0,18
+768,Farmers Insurance Open,2010,2010-01-28T08:00Z,2010-01-31T08:00Z,False,5300000.0,Torrey Pines South,0,0,18
+770,Northern Trust Open,2010,2010-02-04T08:00Z,2010-02-07T08:00Z,False,6400000.0,Riviera Country Club,0,0,18
+767,AT&T Pebble Beach National Pro-Am,2010,2010-02-11T08:00Z,2010-02-14T08:00Z,False,6200000.0,Spyglass Hill GC,0,0,18
+767,AT&T Pebble Beach National Pro-Am,2010,2010-02-11T08:00Z,2010-02-14T08:00Z,False,6200000.0,Pebble Beach Golf Links,0,0,18
+767,AT&T Pebble Beach National Pro-Am,2010,2010-02-11T08:00Z,2010-02-14T08:00Z,False,6200000.0,Monterey Peninsula CC,0,0,18
+802,World Golf Championships-Accenture Match Play Championship,2010,2010-02-17T08:00Z,2010-02-21T08:00Z,False,8500000.0,The Golf Club at Dove Mountain,0,0,18
+793,Mayakoba Golf Classic at Riviera Maya-Cancun,2010,2010-02-18T08:00Z,2010-02-21T08:00Z,False,3600000.0,El Camaleon GC,0,0,18
+766,Waste Management Phoenix Open,2010,2010-02-25T08:00Z,2010-02-28T08:00Z,False,6000000.0,TPC Scottsdale,0,0,18
+771,The Honda Classic,2010,2010-03-04T08:00Z,2010-03-07T08:00Z,False,5600000.0,PGA National Champion Course,0,0,18
+790,World Golf Championships-CA Championship,2010,2010-03-11T08:00Z,2010-03-14T08:00Z,False,8500000.0,Doral Golf Resort and Spa,0,0,0
+795,Puerto Rico Open presented by Banco Popular,2010,2010-03-11T08:00Z,2010-03-15T07:00Z,False,3500000.0,Grand Reserve Country Club,0,0,18
+788,Transitions Championship,2010,2010-03-18T07:00Z,2010-03-21T07:00Z,False,5400000.0,Innisbrook Resort -Copperhead,0,0,36
+772,Arnold Palmer Invitational presented by MasterCard,2010,2010-03-25T07:00Z,2010-03-29T07:00Z,False,6000000.0,Bay Hill Club & Lodge,0,0,18
+777,Shell Houston Open,2010,2010-04-01T07:00Z,2010-04-04T07:00Z,False,5800000.0,Golf Club of Houston,0,0,18
+774,The Masters,2010,2010-04-08T07:00Z,2010-04-11T07:00Z,True,7500000.0,Augusta National Golf Club,0,0,18
+775,Verizon Heritage,2010,2010-04-15T07:00Z,2010-04-18T07:00Z,False,5700000.0,Harbour Town Golf Links,0,0,18
+796,Zurich Classic of New Orleans,2010,2010-04-22T07:00Z,2010-04-25T07:00Z,False,6400000.0,TPC of Louisiana,0,0,18
+791,Wells Fargo Championship,2010,2010-04-29T07:00Z,2010-05-02T07:00Z,False,6500000.0,Quail Hollow Club,0,0,18
+773,THE PLAYERS Championship,2010,2010-05-06T07:00Z,2010-05-09T07:00Z,False,9500000.0,TPC Sawgrass,0,0,18
+801,Valero Texas Open,2010,2010-05-13T07:00Z,2010-05-16T07:00Z,False,6100000.0,TPC San Antonio,0,0,18
+778,HP Byron Nelson Championship,2010,2010-05-20T07:00Z,2010-05-23T07:00Z,False,6500000.0,TPC Four Seasons Resort,0,0,18
+779,Crowne Plaza Invitational at Colonial,2010,2010-05-27T07:00Z,2010-05-30T07:00Z,False,6200000.0,Colonial CC,0,0,18
+780,the Memorial Tournament presented by Nationwide Insurance,2010,2010-06-03T07:00Z,2010-06-06T07:00Z,False,6000000.0,Muirfield Village GC,0,0,18
+782,St. Jude Classic presented by Smith & Nephew,2010,2010-06-10T07:00Z,2010-06-13T07:00Z,False,5600000.0,TPC Southwind,0,0,18
+401024025,U.S. OPEN,2010,2010-06-17T07:00Z,2010-06-20T07:00Z,False,7500000.0,Pebble Beach Golf Links,6816,72,18
+797,U.S. Open Championship,2010,2010-06-17T07:00Z,2010-06-20T07:00Z,True,7500000.0,Blue Course,7040,71,18
+783,Travelers Championship,2010,2010-06-24T07:00Z,2010-06-27T07:00Z,False,6000000.0,TPC River Highlands,0,0,18
+803,AT&T National,2010,2010-07-01T07:00Z,2010-07-04T07:00Z,False,6200000.0,Aronimink GC,0,0,0
+786,John Deere Classic,2010,2010-07-08T07:00Z,2010-07-11T07:00Z,False,4400000.0,TPC Deere Run,0,0,18
+798,The Open Championship,2010,2010-07-15T07:00Z,2010-07-18T07:00Z,True,7000000.0,St Andrews - Old Course,7305,72,0
+789,Reno-Tahoe Open,2010,2010-07-15T07:00Z,2010-07-18T07:00Z,False,3000000.0,Montreux G&CC,0,0,18
+800,RBC Canadian Open,2010,2010-07-22T07:00Z,2010-07-25T07:00Z,False,5100000.0,St. George&apos;s G&CC,7079,70,18
+804,The Greenbrier Classic,2010,2010-07-29T07:00Z,2010-08-01T07:00Z,False,6000000.0,The Old White Course,0,0,18
+785,World Golf Championships-Bridgestone Invitational,2010,2010-08-05T07:00Z,2010-08-08T07:00Z,False,8500000.0,Firestone CC (South Course),0,0,0
+794,Turning Stone Resort Championship,2010,2010-08-05T07:00Z,2010-08-08T07:00Z,False,4000000.0,Atunyote Golf Club,7482,72,18
+799,PGA Championship,2010,2010-08-12T07:00Z,2010-08-15T07:00Z,True,7500000.0,Whistling Straits,7507,72,18
+776,Wyndham Championship,2010,2010-08-19T07:00Z,2010-08-22T07:00Z,False,5100000.0,Sedgefield Country Club,0,0,18
+781,The Barclays,2010,2010-08-26T07:00Z,2010-08-29T07:00Z,False,7500000.0,Ridgewood Country Club,7319,71,18
+792,Deutsche Bank Championship,2010,2010-09-03T07:00Z,2010-09-06T07:00Z,False,7500000.0,TPC Boston,0,0,18
+784,BMW Championship,2010,2010-09-09T07:00Z,2010-09-12T07:00Z,False,7500000.0,Cog Hill G&CC,0,0,18
+787,THE TOUR Championship presented by Coca-Cola,2010,2010-09-23T07:00Z,2010-09-26T07:00Z,False,7500000.0,East Lake Golf Club,0,0,18
+834,Viking Classic,2010,2010-09-30T07:00Z,2010-10-03T07:00Z,False,3600000.0,Annandale GC,0,0,18
+838,Ryder Cup,2010,2010-10-01T07:00Z,2010-10-04T07:00Z,False,null,The Celtic Manor Resort,7378,71,18
+841,The McGladrey Classic,2010,2010-10-07T07:00Z,2010-10-10T07:00Z,False,4000000.0,Sea Island Resort (Seaside),0,0,18
+837,Frys.com Open,2010,2010-10-14T07:00Z,2010-10-17T07:00Z,False,5000000.0,CordeValle Golf Club,0,0,0
+835,Justin Timberlake Shriners Hospitals for Children Open,2010,2010-10-21T07:00Z,2010-10-24T07:00Z,False,4300000.0,TPC at Summerlin,0,0,18
+845,CIMB Asia Pacific Classic Malaysia,2010,2010-10-28T07:00Z,2010-10-31T07:00Z,False,6000000.0,The MINES Resort & Golf Club,0,0,18
+846,WGC-HSBC Champions,2010,2010-11-03T07:00Z,2010-11-07T07:00Z,False,7000000.0,Sheshan International GC,7266,72,18
+836,Children's Miracle Network Classic,2010,2010-11-11T08:00Z,2010-11-14T08:00Z,False,4700000.0,Magnolia GC,0,0,18
+836,Children's Miracle Network Classic,2010,2010-11-11T08:00Z,2010-11-14T08:00Z,False,4700000.0,Palm GC,0,0,18
+847,PGA TOUR Qualifying Tournament,2010,2010-12-01T08:00Z,2010-12-06T08:00Z,False,1057500.0,Panther Lake Golf Course,7350,72,0
+847,PGA TOUR Qualifying Tournament,2010,2010-12-01T08:00Z,2010-12-06T08:00Z,False,1057500.0,Crooked Cat Course,7277,72,0
+857,Chevron World Challenge,2010,2010-12-02T08:00Z,2010-12-05T08:00Z,False,5000000.0,Sherwood CC in Thousand Oaks,7027,72,0
+892,Hyundai Tournament of Champions,2011,2011-01-06T08:00Z,2011-01-09T08:00Z,False,5600000.0,Plantation Course,7411,73,18
+897,Sony Open in Hawaii,2011,2011-01-13T08:00Z,2011-01-16T08:00Z,False,5500000.0,Waialae CC,7044,70,18
+893,Bob Hope Classic,2011,2011-01-19T08:00Z,2011-01-23T08:00Z,False,5000000.0,PGA West (Palmer),6950,72,18
+893,Bob Hope Classic,2011,2011-01-19T08:00Z,2011-01-23T08:00Z,False,5000000.0,La Quinta CC,7060,72,36
+893,Bob Hope Classic,2011,2011-01-19T08:00Z,2011-01-23T08:00Z,False,5000000.0,Silver Rock,7403,72,18
+893,Bob Hope Classic,2011,2011-01-19T08:00Z,2011-01-23T08:00Z,False,5000000.0,Jack Nicklaus Tournament,6924,72,18
+896,Farmers Insurance Open,2011,2011-01-27T08:00Z,2011-01-30T08:00Z,False,5800000.0,Torrey Pines North,7067,72,18
+896,Farmers Insurance Open,2011,2011-01-27T08:00Z,2011-01-30T08:00Z,False,5800000.0,Torrey Pines South,7698,72,18
+894,Waste Management Phoenix Open,2011,2011-02-03T08:00Z,2011-02-07T08:00Z,False,6100000.0,TPC Scottsdale,7216,71,18
+895,AT&T Pebble Beach National Pro-Am,2011,2011-02-10T08:00Z,2011-02-13T08:00Z,False,6300000.0,Spyglass Hill GC,6953,72,18
+895,AT&T Pebble Beach National Pro-Am,2011,2011-02-10T08:00Z,2011-02-13T08:00Z,False,6300000.0,Pebble Beach Golf Links,6816,72,18
+895,AT&T Pebble Beach National Pro-Am,2011,2011-02-10T08:00Z,2011-02-13T08:00Z,False,6300000.0,Monterey Peninsula CC,6838,70,18
+898,Northern Trust Open,2011,2011-02-17T08:00Z,2011-02-20T08:00Z,False,6500000.0,Riviera Country Club,7325,71,18
+919,World Golf Championships-Accenture Match Play Championship,2011,2011-02-23T08:00Z,2011-02-27T08:00Z,False,8500000.0,The Golf Club at Dove Mountain,7791,72,18
+923,Mayakoba Golf Classic at Riviera Maya-Cancun,2011,2011-02-24T08:00Z,2011-02-27T08:00Z,False,3700000.0,El Camaleon GC,6923,71,18
+899,The Honda Classic,2011,2011-03-03T08:00Z,2011-03-06T08:00Z,False,5700000.0,PGA National Champion Course,7158,70,18
+985,World Golf Championships-Cadillac Championship,2011,2011-03-10T08:00Z,2011-03-13T08:00Z,False,8500000.0,Doral Golf Resort and Spa,7334,72,0
+926,Puerto Rico Open presented by seepuertorico.com,2011,2011-03-10T08:00Z,2011-03-13T08:00Z,False,3500000.0,Grand Reserve Country Club,7526,72,18
+918,Transitions Championship,2011,2011-03-17T07:00Z,2011-03-20T07:00Z,False,5500000.0,Innisbrook Resort -Copperhead,7332,71,36
+900,Arnold Palmer Invitational presented by MasterCard,2011,2011-03-24T07:00Z,2011-03-27T07:00Z,False,6000000.0,Bay Hill Club & Lodge,7419,72,18
+905,Shell Houston Open,2011,2011-03-31T07:00Z,2011-04-03T07:00Z,False,5900000.0,Golf Club of Houston,7457,72,18
+980,The Masters,2011,2011-04-07T07:00Z,2011-04-10T07:00Z,True,7500000.0,Augusta National Golf Club,7435,72,18
+915,Valero Texas Open,2011,2011-04-14T07:00Z,2011-04-17T07:00Z,False,6200000.0,TPC San Antonio,7435,72,18
+903,The Heritage,2011,2011-04-21T07:00Z,2011-04-24T07:00Z,False,5700000.0,Harbour Town Golf Links,6973,71,18
+901,Zurich Classic of New Orleans,2011,2011-04-28T07:00Z,2011-05-01T07:00Z,False,6400000.0,TPC of Louisiana,7399,72,18
+921,Wells Fargo Championship,2011,2011-05-05T07:00Z,2011-05-08T07:00Z,False,6500000.0,Quail Hollow Club,7469,72,18
+902,THE PLAYERS Championship,2011,2011-05-12T07:00Z,2011-05-15T07:00Z,False,9500000.0,TPC Sawgrass,7215,72,18
+907,Crowne Plaza Invitational at Colonial,2011,2011-05-19T07:00Z,2011-05-22T07:00Z,False,6200000.0,Colonial CC,7204,70,18
+906,HP Byron Nelson Championship,2011,2011-05-26T07:00Z,2011-05-29T07:00Z,False,6500000.0,TPC Four Seasons Resort,7166,70,18
+908,the Memorial Tournament presented by Nationwide Insurance,2011,2011-06-02T07:00Z,2011-06-05T07:00Z,False,6200000.0,Muirfield Village GC,7352,72,18
+909,FedEx St. Jude Classic,2011,2011-06-09T07:00Z,2011-06-12T07:00Z,False,5600000.0,TPC Southwind,7239,70,18
+981,U.S. Open,2011,2011-06-16T07:00Z,2011-06-19T07:00Z,True,7500000.0,Congressional Country Club,7574,71,18
+910,Travelers Championship,2011,2011-06-23T07:00Z,2011-06-26T07:00Z,False,6000000.0,TPC River Highlands,6841,70,18
+925,AT&T National,2011,2011-06-30T07:00Z,2011-07-03T07:00Z,False,6200000.0,Aronimink GC,7237,70,0
+913,John Deere Classic,2011,2011-07-07T07:00Z,2011-07-10T07:00Z,False,4500000.0,TPC Deere Run,7268,71,18
+982,The Open Championship,2011,2011-07-14T07:00Z,2011-07-17T07:00Z,True,7300000.0,Royal St. George's Golf Club,7211,70,18
+912,Viking Classic,2011,2011-07-14T07:00Z,2011-07-17T07:00Z,False,3600000.0,Annandale GC,7199,72,18
+986,RBC Canadian Open,2011,2011-07-21T07:00Z,2011-07-24T07:00Z,False,5200000.0,Shaughnessy G&CC,7010,70,0
+927,The Greenbrier Classic,2011,2011-07-28T07:00Z,2011-07-31T07:00Z,False,6000000.0,The Old White Course,7274,70,18
+987,World Golf Championships-Bridgestone Invitational,2011,2011-08-04T07:00Z,2011-08-07T07:00Z,False,8500000.0,Firestone CC (South Course),7400,70,0
+920,Reno-Tahoe Open,2011,2011-08-04T07:00Z,2011-08-07T07:00Z,False,3000000.0,Montreux G&CC,7472,72,18
+983,PGA Championship,2011,2011-08-11T07:00Z,2011-08-14T07:00Z,True,8000000.0,Atlanta Athletic Club,7467,70,18
+904,Wyndham Championship,2011,2011-08-18T07:00Z,2011-08-21T07:00Z,False,5200000.0,Sedgefield Country Club,7117,70,18
+984,The Barclays,2011,2011-08-25T07:00Z,2011-08-28T07:00Z,False,8000000.0,Plainfield CC,6964,71,18
+922,Deutsche Bank Championship,2011,2011-09-02T07:00Z,2011-09-05T07:00Z,False,8000000.0,TPC Boston,7214,71,18
+911,BMW Championship,2011,2011-09-15T07:00Z,2011-09-18T07:00Z,False,8000000.0,Cog Hill G&CC,7616,71,18
+917,TOUR Championship by Coca-Cola,2011,2011-09-22T07:00Z,2011-09-25T07:00Z,False,8000000.0,East Lake Golf Club,7319,70,18
+914,Justin Timberlake Shriners Hospitals for Children Open,2011,2011-09-29T07:00Z,2011-10-02T07:00Z,False,4400000.0,TPC at Summerlin,7243,71,18
+924,Frys.com Open,2011,2011-10-06T07:00Z,2011-10-09T07:00Z,False,5000000.0,CordeValle Golf Club,7368,71,0
+928,The McGladrey Classic,2011,2011-10-13T07:00Z,2011-10-16T07:00Z,False,4000000.0,Sea Island Resort (Seaside),7005,70,18
+916,Children's Miracle Network Hospitals Classic,2011,2011-10-20T07:00Z,2011-10-23T07:00Z,False,4700000.0,Magnolia GC,7516,72,18
+916,Children's Miracle Network Hospitals Classic,2011,2011-10-20T07:00Z,2011-10-23T07:00Z,False,4700000.0,Palm GC,7010,72,18
+929,CIMB Asia Pacific Classic Malaysia,2011,2011-10-27T07:00Z,2011-10-30T07:00Z,False,6100000.0,The MINES Resort & Golf Club,6917,71,18
+988,World Golf Championships-HSBC Champions,2011,2011-11-03T07:00Z,2011-11-06T07:00Z,False,7000000.0,Sheshan International GC,7266,72,18
+993,The Presidents Cup,2011,2011-11-17T08:00Z,2011-11-20T08:00Z,False,null,Royal Melbourne Golf Club,6998,71,18
+995,PGA TOUR Qualifying Tournament,2011,2011-11-30T08:00Z,2011-12-05T08:00Z,False,1057500.0,Nicklaus Tournament Course,7204,72,18
+995,PGA TOUR Qualifying Tournament,2011,2011-11-30T08:00Z,2011-12-05T08:00Z,False,1057500.0,Jack Nicklaus Tournament,6924,72,18
+995,PGA TOUR Qualifying Tournament,2011,2011-11-30T08:00Z,2011-12-05T08:00Z,False,1057500.0,Stadium Course,7300,72,0
+994,Chevron World Challenge,2011,2011-12-01T08:00Z,2011-12-04T08:00Z,False,5000000.0,Sherwood CC in Thousand Oaks,7023,72,0
+1057,Hyundai Tournament of Champions,2012,2012-01-06T08:00Z,2012-01-09T08:00Z,False,5600000.0,Plantation Course,7411,73,18
+999,Sony Open in Hawaii,2012,2012-01-12T08:00Z,2012-01-15T08:00Z,False,5500000.0,Waialae CC,7044,70,18
+1058,Humana Challenge in partnership with the Clinton Foundation,2012,2012-01-19T08:00Z,2012-01-22T08:00Z,False,5600000.0,PGA West (Palmer),6950,72,18
+1058,Humana Challenge in partnership with the Clinton Foundation,2012,2012-01-19T08:00Z,2012-01-22T08:00Z,False,5600000.0,La Quinta CC,7060,72,36
+1058,Humana Challenge in partnership with the Clinton Foundation,2012,2012-01-19T08:00Z,2012-01-22T08:00Z,False,5600000.0,Jack Nicklaus Tournament,6924,72,18
+998,Farmers Insurance Open,2012,2012-01-26T08:00Z,2012-01-29T08:00Z,False,6000000.0,Torrey Pines North,7067,72,18
+998,Farmers Insurance Open,2012,2012-01-26T08:00Z,2012-01-29T08:00Z,False,6000000.0,Torrey Pines South,7698,72,18
+996,Waste Management Phoenix Open,2012,2012-02-02T08:00Z,2012-02-05T08:00Z,False,6100000.0,TPC Scottsdale,7216,71,18
+997,AT&T Pebble Beach National Pro-Am,2012,2012-02-09T08:00Z,2012-02-12T08:00Z,False,6400000.0,Spyglass Hill GC,6953,72,18
+997,AT&T Pebble Beach National Pro-Am,2012,2012-02-09T08:00Z,2012-02-12T08:00Z,False,6400000.0,Pebble Beach Golf Links,6816,72,18
+997,AT&T Pebble Beach National Pro-Am,2012,2012-02-09T08:00Z,2012-02-12T08:00Z,False,6400000.0,Monterey Peninsula CC,6838,70,18
+1000,Northern Trust Open,2012,2012-02-16T08:00Z,2012-02-19T08:00Z,False,6600000.0,Riviera Country Club,7349,71,18
+1025,World Golf Championships-Accenture Match Play Championship,2012,2012-02-22T08:00Z,2012-02-26T08:00Z,False,8500000.0,The Golf Club at Dove Mountain,7791,72,18
+1030,Mayakoba Golf Classic,2012,2012-02-23T08:00Z,2012-02-26T08:00Z,False,3700000.0,El Camaleon GC,6923,71,18
+1001,The Honda Classic,2012,2012-03-01T08:00Z,2012-03-04T08:00Z,False,5700000.0,PGA National Champion Course,7110,70,18
+1027,World Golf Championships-Cadillac Championship,2012,2012-03-08T08:00Z,2012-03-11T08:00Z,False,8500000.0,Doral Golf Resort and Spa,7334,72,0
+1033,Puerto Rico Open presented by seepuertorico.com,2012,2012-03-08T08:00Z,2012-03-11T08:00Z,False,3500000.0,Grand Reserve Country Club,7506,72,18
+1061,Transitions Championship,2012,2012-03-15T07:00Z,2012-03-18T07:00Z,False,5500000.0,Innisbrook Resort -Copperhead,7340,71,36
+1002,Arnold Palmer Invitational presented by MasterCard,2012,2012-03-22T07:00Z,2012-03-25T07:00Z,False,6000000.0,Bay Hill Club & Lodge,7419,72,18
+1008,Shell Houston Open,2012,2012-03-29T07:00Z,2012-04-01T07:00Z,False,6000000.0,Golf Club of Houston,7457,72,18
+1005,The Masters Tournament,2012,2012-04-05T07:00Z,2012-04-08T07:00Z,True,8000000.0,Augusta National Golf Club,7435,72,18
+1006,RBC Heritage,2012,2012-04-12T07:00Z,2012-04-15T07:00Z,False,5700000.0,Harbour Town Golf Links,7101,71,18
+1023,Valero Texas Open,2012,2012-04-19T07:00Z,2012-04-22T07:00Z,False,6200000.0,TPC San Antonio,7435,72,18
+1003,Zurich Classic of New Orleans,2012,2012-04-26T07:00Z,2012-04-29T07:00Z,False,6400000.0,TPC of Louisiana,7425,72,18
+1028,Wells Fargo Championship,2012,2012-05-03T07:00Z,2012-05-06T07:00Z,False,6500000.0,Quail Hollow Club,7469,72,18
+1004,THE PLAYERS Championship,2012,2012-05-10T07:00Z,2012-05-13T07:00Z,False,9500000.0,TPC Sawgrass,7215,72,18
+1009,HP Byron Nelson Championship,2012,2012-05-17T07:00Z,2012-05-20T07:00Z,False,6500000.0,TPC Four Seasons Resort,7166,70,18
+1010,Crowne Plaza Invitational at Colonial,2012,2012-05-24T07:00Z,2012-05-27T07:00Z,False,6400000.0,Colonial CC,7204,70,18
+1011,the Memorial Tournament presented by Nationwide Insurance,2012,2012-05-31T07:00Z,2012-06-03T07:00Z,False,6200000.0,Muirfield Village GC,0,0,18
+1014,FedEx St. Jude Classic,2012,2012-06-07T07:00Z,2012-06-10T07:00Z,False,5600000.0,TPC Southwind,7239,70,18
+1013,U.S. Open Golf Championship,2012,2012-06-14T07:00Z,2012-06-17T07:00Z,True,8000000.0,Olympic Club,7170,70,18
+1015,Travelers Championship,2012,2012-06-21T07:00Z,2012-06-24T07:00Z,False,6000000.0,TPC River Highlands,6841,70,18
+1032,AT&T National,2012,2012-06-28T07:00Z,2012-07-01T07:00Z,False,6500000.0,Congressional Country Club,7569,71,18
+1034,The Greenbrier Classic,2012,2012-07-05T07:00Z,2012-07-08T07:00Z,False,6100000.0,The Old White Course,7274,70,18
+1021,John Deere Classic,2012,2012-07-12T07:00Z,2012-07-15T07:00Z,False,4600000.0,TPC Deere Run,7268,71,18
+1017,The Open Championship,2012,2012-07-19T07:00Z,2012-07-22T07:00Z,True,8000000.0,Royal Lytham & St. Annes Golf Club,7086,70,18
+1059,True South Classic,2012,2012-07-19T07:00Z,2012-07-22T07:00Z,False,3000000.0,Annandale GC,7202,72,18
+1020,RBC Canadian Open,2012,2012-07-26T07:00Z,2012-07-29T07:00Z,False,5200000.0,Hamilton Golf & Country Club,6966,70,18
+1026,Reno-Tahoe Open,2012,2012-08-02T07:00Z,2012-08-05T07:00Z,False,3000000.0,Montreux G&CC,7472,72,18
+1019,World Golf Championships-Bridgestone Invitational,2012,2012-08-02T07:00Z,2012-08-05T07:00Z,False,8500000.0,Firestone CC (South Course),7400,70,0
+1018,PGA Championship,2012,2012-08-09T07:00Z,2012-08-12T07:00Z,True,8000000.0,Kiawah Island Resort (Ocean),7676,72,18
+1007,Wyndham Championship,2012,2012-08-16T07:00Z,2012-08-20T07:00Z,False,5200000.0,Sedgefield Country Club,7117,70,18
+1012,The Barclays,2012,2012-08-23T07:00Z,2012-08-26T07:00Z,False,8000000.0,Bethpage State Park,7468,71,18
+1029,Deutsche Bank Championship,2012,2012-08-31T07:00Z,2012-09-03T07:00Z,False,8000000.0,TPC Boston,7216,71,18
+1016,BMW Championship,2012,2012-09-06T07:00Z,2012-09-09T07:00Z,False,8000000.0,Crooked Stick Golf Course,7516,72,0
+1060,TOUR Championship by Coca-Cola,2012,2012-09-20T07:00Z,2012-09-23T07:00Z,False,8000000.0,East Lake Golf Club,7319,70,18
+1062,Ryder Cup,2012,2012-09-28T07:00Z,2012-09-30T07:00Z,False,null,Medinah CC,7154,72,18
+1022,Justin Timberlake Shriners Hospitals for Children Open,2012,2012-10-04T07:00Z,2012-10-07T07:00Z,False,4500000.0,TPC at Summerlin,7243,71,18
+1031,Frys.com Open,2012,2012-10-11T07:00Z,2012-10-14T07:00Z,False,5000000.0,CordeValle Golf Club,7368,71,0
+1035,The McGladrey Classic,2012,2012-10-18T07:00Z,2012-10-21T07:00Z,False,4000000.0,Sea Island Resort (Seaside),7005,70,18
+1036,CIMB Classic,2012,2012-10-25T07:00Z,2012-10-28T07:00Z,False,6100000.0,The MINES Resort & Golf Club,6909,71,18
+1024,Children's Miracle Network Hospitals Classic,2012,2012-11-08T08:00Z,2012-11-11T08:00Z,False,4700000.0,Magnolia GC,7516,72,18
+1024,Children's Miracle Network Hospitals Classic,2012,2012-11-08T08:00Z,2012-11-11T08:00Z,False,4700000.0,Palm GC,6957,72,18
+1155,PGA TOUR Qualifying Tournament,2012,2012-11-28T08:00Z,2012-12-03T08:00Z,False,1057500.0,Nicklaus Tournament Course,7204,72,18
+1155,PGA TOUR Qualifying Tournament,2012,2012-11-28T08:00Z,2012-12-03T08:00Z,False,1057500.0,Jack Nicklaus Tournament,6924,72,18
+1155,PGA TOUR Qualifying Tournament,2012,2012-11-28T08:00Z,2012-12-03T08:00Z,False,1057500.0,Stadium Course,7266,72,0
+1154,World Challenge presented by Northwestern Mutual,2012,2012-11-29T08:00Z,2012-12-02T08:00Z,False,4000000.0,Sherwood CC in Thousand Oaks,7027,72,0
+1181,Hyundai Tournament of Champions,2013,2013-01-04T08:00Z,2013-01-08T08:00Z,False,5700000.0,Plantation Course,7411,73,18
+1186,Sony Open in Hawaii,2013,2013-01-10T08:00Z,2013-01-13T08:00Z,False,5600000.0,Waialae CC,7044,70,18
+1182,Humana Challenge in partnership with the Clinton Foundation,2013,2013-01-17T08:00Z,2013-01-20T08:00Z,False,5600000.0,PGA West (Palmer),6950,72,18
+1182,Humana Challenge in partnership with the Clinton Foundation,2013,2013-01-17T08:00Z,2013-01-20T08:00Z,False,5600000.0,La Quinta CC,0,0,36
+1182,Humana Challenge in partnership with the Clinton Foundation,2013,2013-01-17T08:00Z,2013-01-20T08:00Z,False,5600000.0,Jack Nicklaus Tournament,0,0,18
+1185,Farmers Insurance Open,2013,2013-01-24T08:00Z,2013-01-28T08:00Z,False,6100000.0,Torrey Pines North,7052,72,18
+1185,Farmers Insurance Open,2013,2013-01-24T08:00Z,2013-01-28T08:00Z,False,6100000.0,Torrey Pines South,0,0,18
+1183,Waste Management Phoenix Open,2013,2013-01-31T08:00Z,2013-02-03T08:00Z,False,6200000.0,TPC Scottsdale,7216,71,18
+1184,AT&T Pebble Beach National Pro-Am,2013,2013-02-07T08:00Z,2013-02-10T08:00Z,False,6500000.0,Spyglass Hill GC,0,0,18
+1184,AT&T Pebble Beach National Pro-Am,2013,2013-02-07T08:00Z,2013-02-10T08:00Z,False,6500000.0,Pebble Beach Golf Links,6837,72,18
+1184,AT&T Pebble Beach National Pro-Am,2013,2013-02-07T08:00Z,2013-02-10T08:00Z,False,6500000.0,Monterey Peninsula CC,0,0,18
+1187,Northern Trust Open,2013,2013-02-14T08:00Z,2013-02-17T08:00Z,False,6600000.0,Riviera Country Club,7349,71,18
+1213,World Golf Championships-Accenture Match Play Championship,2013,2013-02-20T08:00Z,2013-02-24T08:00Z,False,8750000.0,The Golf Club at Dove Mountain,7791,72,18
+1188,The Honda Classic,2013,2013-02-28T08:00Z,2013-03-03T08:00Z,False,6000000.0,PGA National Champion Course,7110,70,18
+1215,World Golf Championships-Cadillac Championship,2013,2013-03-07T08:00Z,2013-03-10T08:00Z,False,8750000.0,Doral Golf Resort and Spa,7334,72,0
+1219,Puerto Rico Open presented by seepuertorico.com,2013,2013-03-07T08:00Z,2013-03-10T08:00Z,False,3500000.0,Grand Reserve Country Club,7506,72,18
+1212,Tampa Bay Championship presented by EverBank,2013,2013-03-14T07:00Z,2013-03-17T07:00Z,False,5500000.0,Innisbrook Resort -Copperhead,7340,71,36
+1189,Arnold Palmer Invitational presented by MasterCard,2013,2013-03-21T07:00Z,2013-03-25T07:00Z,False,6200000.0,Bay Hill Club & Lodge,7419,72,18
+1195,Shell Houston Open,2013,2013-03-28T07:00Z,2013-03-31T07:00Z,False,6200000.0,Golf Club of Houston,7441,72,18
+1210,Valero Texas Open,2013,2013-04-04T07:00Z,2013-04-07T07:00Z,False,6200000.0,TPC San Antonio,7406,72,18
+1192,Masters Tournament,2013,2013-04-11T07:00Z,2013-04-14T07:00Z,True,8000000.0,Augusta National Golf Club,7445,72,18
+1193,RBC Heritage,2013,2013-04-18T07:00Z,2013-04-21T07:00Z,False,5800000.0,Harbour Town Golf Links,7101,71,18
+1190,Zurich Classic of New Orleans,2013,2013-04-25T07:00Z,2013-04-28T07:00Z,False,6600000.0,TPC of Louisiana,7425,72,18
+1216,Wells Fargo Championship,2013,2013-05-02T07:00Z,2013-05-05T07:00Z,False,6700000.0,Quail Hollow Club,7492,72,18
+1191,THE PLAYERS Championship,2013,2013-05-09T07:00Z,2013-05-12T07:00Z,False,9500000.0,TPC Sawgrass,7215,72,18
+1196,HP Byron Nelson Championship,2013,2013-05-16T07:00Z,2013-05-19T07:00Z,False,6700000.0,TPC Four Seasons Resort,7166,70,18
+1197,Crowne Plaza Invitational at Colonial,2013,2013-05-23T07:00Z,2013-05-26T07:00Z,False,6400000.0,Colonial CC,7204,70,18
+1198,the Memorial Tournament presented by Nationwide Insurance,2013,2013-05-30T07:00Z,2013-06-02T07:00Z,False,6200000.0,Muirfield Village GC,7354,72,18
+1201,FedEx St. Jude Classic,2013,2013-06-06T07:00Z,2013-06-09T07:00Z,False,5700000.0,TPC Southwind,7239,70,18
+1200,U.S. Open Golf Championship,2013,2013-06-13T07:00Z,2013-06-16T07:00Z,True,8000000.0,Merion GC,6996,70,18
+1202,Travelers Championship,2013,2013-06-20T07:00Z,2013-06-23T07:00Z,False,6100000.0,TPC River Highlands,6844,70,18
+1218,AT&T National,2013,2013-06-27T07:00Z,2013-06-30T07:00Z,False,6500000.0,Congressional Country Club,7569,71,18
+1220,The Greenbrier Classic,2013,2013-07-04T07:00Z,2013-07-07T07:00Z,False,6300000.0,The Old White Course,7287,70,18
+1209,John Deere Classic,2013,2013-07-11T07:00Z,2013-07-14T07:00Z,False,4600000.0,TPC Deere Run,7268,71,18
+1204,The Open Championship,2013,2013-07-18T07:00Z,2013-07-21T07:00Z,True,8000000.0,MUIRFIELD,7192,71,18
+1205,Sanderson Farms Championship,2013,2013-07-18T07:00Z,2013-07-21T07:00Z,False,3000000.0,Annandale GC,7202,72,18
+1208,RBC Canadian Open,2013,2013-07-25T07:00Z,2013-07-28T07:00Z,False,5600000.0,Glen Abbey GC,7253,72,18
+1207,World Golf Championships-Bridgestone Invitational,2013,2013-08-01T07:00Z,2013-08-04T07:00Z,False,8750000.0,Firestone CC (South Course),7400,70,0
+1214,Reno-Tahoe Open,2013,2013-08-01T07:00Z,2013-08-04T07:00Z,False,3000000.0,Montreux G&CC,7472,72,18
+1206,PGA Championship,2013,2013-08-08T07:00Z,2013-08-11T07:00Z,True,8000000.0,Oak Hill Country Club in Rochester,7163,70,18
+1194,Wyndham Championship,2013,2013-08-15T07:00Z,2013-08-18T07:00Z,False,5300000.0,Sedgefield Country Club,7130,70,18
+1199,The Barclays,2013,2013-08-22T07:00Z,2013-08-25T07:00Z,False,8000000.0,Liberty National Golf Club,7353,71,18
+1217,Deutsche Bank Championship,2013,2013-08-30T07:00Z,2013-09-02T07:00Z,False,8000000.0,TPC Boston,7216,71,18
+1203,BMW Championship,2013,2013-09-12T07:00Z,2013-09-16T07:00Z,False,8000000.0,Conway Farms Golf Club,7149,71,18
+1211,TOUR Championship by Coca-Cola,2013,2013-09-19T07:00Z,2013-09-22T07:00Z,False,8000000.0,East Lake Golf Club,7154,70,18
+1272,The Presidents Cup,2013,2013-10-03T07:00Z,2013-10-06T07:00Z,False,null,Muirfield Village GC,7354,72,18
+1345,Frys.com Open,2014,2013-10-10T07:00Z,2013-10-13T07:00Z,False,5000000.0,CordeValle Golf Club,7368,71,0
+1334,Shriners Hospitals for Children Open,2014,2013-10-17T07:00Z,2013-10-20T07:00Z,False,6000000.0,TPC at Summerlin,7255,71,18
+1350,CIMB Classic,2014,2013-10-24T07:00Z,2013-10-27T07:00Z,False,7000000.0,TPC Kuala Lumpur,6985,72,18
+1341,World Golf Championships-HSBC Champions,2014,2013-10-31T07:00Z,2013-11-03T07:00Z,False,8500000.0,Sheshan International GC,7266,72,18
+1351,The McGladrey Classic,2014,2013-11-07T08:00Z,2013-11-10T08:00Z,False,5500000.0,Sea Island Resort (Seaside),7005,70,18
+1344,OHL Classic at Mayakoba,2014,2013-11-14T08:00Z,2013-11-17T08:00Z,False,6000000.0,El Camaleon GC,6987,71,18
+1349,Northwestern Mutual World Challenge,2014,2013-12-05T08:00Z,2013-12-08T08:00Z,False,3500000.0,Sherwood CC in Thousand Oaks,7052,72,0
+1306,Hyundai Tournament of Champions,2014,2014-01-03T08:00Z,2014-01-06T08:00Z,False,5700000.0,Plantation Course,7411,73,18
+1311,Sony Open in Hawaii,2014,2014-01-09T08:00Z,2014-01-12T08:00Z,False,5600000.0,Waialae CC,7044,70,18
+1307,Humana Challenge in partnership with the Clinton Foundation,2014,2014-01-16T08:00Z,2014-01-19T08:00Z,False,5700000.0,PGA West (Palmer),6950,72,18
+1307,Humana Challenge in partnership with the Clinton Foundation,2014,2014-01-16T08:00Z,2014-01-19T08:00Z,False,5700000.0,La Quinta CC,7060,72,36
+1307,Humana Challenge in partnership with the Clinton Foundation,2014,2014-01-16T08:00Z,2014-01-19T08:00Z,False,5700000.0,Jack Nicklaus Tournament,6924,72,18
+1310,Farmers Insurance Open,2014,2014-01-23T08:00Z,2014-01-26T08:00Z,False,6100000.0,Torrey Pines North,7052,72,18
+1310,Farmers Insurance Open,2014,2014-01-23T08:00Z,2014-01-26T08:00Z,False,6100000.0,Torrey Pines South,7698,72,18
+1308,Waste Management Phoenix Open,2014,2014-01-30T08:00Z,2014-02-02T08:00Z,False,6200000.0,TPC Scottsdale,7152,71,18
+1309,AT&T Pebble Beach National Pro-Am,2014,2014-02-06T08:00Z,2014-02-09T08:00Z,False,6600000.0,Spyglass Hill GC,6953,72,18
+1309,AT&T Pebble Beach National Pro-Am,2014,2014-02-06T08:00Z,2014-02-09T08:00Z,False,6600000.0,Pebble Beach Golf Links,6837,72,18
+1309,AT&T Pebble Beach National Pro-Am,2014,2014-02-06T08:00Z,2014-02-09T08:00Z,False,6600000.0,Monterey Peninsula CC,6867,71,18
+1312,Northern Trust Open,2014,2014-02-13T08:00Z,2014-02-16T08:00Z,False,6700000.0,Riviera Country Club,7349,71,18
+1338,World Golf Championships-Accenture Match Play Championship,2014,2014-02-19T08:00Z,2014-02-23T08:00Z,False,9000000.0,The Golf Club at Dove Mountain,7791,72,18
+1313,The Honda Classic,2014,2014-02-27T08:00Z,2014-03-02T08:00Z,False,6000000.0,PGA National Champion Course,7140,70,18
+1347,Puerto Rico Open presented by seepuertorico.com,2014,2014-03-06T08:00Z,2014-03-09T08:00Z,False,3500000.0,Grand Reserve Country Club,7506,72,18
+1340,World Golf Championships-Cadillac Championship,2014,2014-03-06T08:00Z,2014-03-09T08:00Z,False,9000000.0,Doral Golf Resort and Spa,7481,72,0
+1337,Valspar Championship,2014,2014-03-13T07:00Z,2014-03-16T07:00Z,False,5700000.0,Innisbrook Resort -Copperhead,7340,71,36
+1314,Arnold Palmer Invitational presented by MasterCard,2014,2014-03-20T07:00Z,2014-03-23T07:00Z,False,6200000.0,Bay Hill Club & Lodge,7419,72,18
+1335,Valero Texas Open,2014,2014-03-27T07:00Z,2014-03-30T07:00Z,False,6200000.0,TPC San Antonio,6923,72,18
+1320,Shell Houston Open,2014,2014-04-03T07:00Z,2014-04-06T07:00Z,False,6400000.0,Golf Club of Houston,7441,72,18
+1317,Masters Tournament,2014,2014-04-10T07:00Z,2014-04-13T07:00Z,True,9000000.0,Augusta National Golf Club,7435,72,18
+1318,RBC Heritage,2014,2014-04-17T07:00Z,2014-04-20T07:00Z,False,5800000.0,Harbour Town Golf Links,7101,71,18
+1315,Zurich Classic of New Orleans,2014,2014-04-24T07:00Z,2014-04-27T07:00Z,False,6800000.0,TPC of Louisiana,7425,72,18
+1342,Wells Fargo Championship,2014,2014-05-01T07:00Z,2014-05-04T07:00Z,False,6900000.0,Quail Hollow Club,7562,72,18
+1316,THE PLAYERS Championship,2014,2014-05-08T07:00Z,2014-05-11T07:00Z,False,10000000.0,TPC Sawgrass,6847,70,18
+1321,HP Byron Nelson Championship,2014,2014-05-15T07:00Z,2014-05-18T07:00Z,False,6900000.0,TPC Four Seasons Resort,7166,70,18
+1322,Crowne Plaza Invitational at Colonial,2014,2014-05-22T07:00Z,2014-05-25T07:00Z,False,6400000.0,Colonial CC,7204,70,18
+1323,the Memorial Tournament presented by Nationwide Insurance,2014,2014-05-29T07:00Z,2014-06-01T07:00Z,False,6200000.0,Muirfield Village GC,7392,72,18
+1326,FedEx St. Jude Classic,2014,2014-06-05T07:00Z,2014-06-08T07:00Z,False,5800000.0,TPC Southwind,7239,70,18
+1325,U.S. Open Golf Championship,2014,2014-06-12T07:00Z,2014-06-15T07:00Z,True,9000000.0,Pinehurst No. 2,6649,70,18
+1327,Travelers Championship,2014,2014-06-19T07:00Z,2014-06-22T07:00Z,False,6200000.0,TPC River Highlands,6841,70,18
+1346,Quicken Loans National,2014,2014-06-26T07:00Z,2014-06-29T07:00Z,False,6500000.0,Congressional Country Club,7569,71,18
+1348,The Greenbrier Classic,2014,2014-07-03T07:00Z,2014-07-06T07:00Z,False,6500000.0,The Old White Course,7287,70,18
+1333,John Deere Classic,2014,2014-07-10T07:00Z,2014-07-13T07:00Z,False,4700000.0,TPC Deere Run,7268,71,18
+1329,The Open Championship,2014,2014-07-17T07:00Z,2014-07-20T07:00Z,True,9200000.0,Royal Liverpool GC,7312,72,18
+1332,RBC Canadian Open,2014,2014-07-24T07:00Z,2014-07-27T07:00Z,False,5700000.0,Royal Montreal GC(Blue Course),7153,70,18
+1331,World Golf Championships-Bridgestone Invitational,2014,2014-07-31T07:00Z,2014-08-03T07:00Z,False,9000000.0,Firestone CC (South Course),7400,70,0
+1339,Barracuda Championship,2014,2014-07-31T07:00Z,2014-08-03T07:00Z,False,3000000.0,Montreux G&CC,7472,72,18
+1330,PGA Championship,2014,2014-08-07T07:00Z,2014-08-10T07:00Z,True,10000000.0,Valhalla GC,7458,71,18
+1319,Wyndham Championship,2014,2014-08-14T07:00Z,2014-08-17T07:00Z,False,5300000.0,Sedgefield Country Club,7127,70,18
+1324,The Barclays,2014,2014-08-21T07:00Z,2014-08-24T07:00Z,False,8000000.0,Ridgewood Country Club,7319,71,18
+1343,Deutsche Bank Championship,2014,2014-08-29T07:00Z,2014-09-01T07:00Z,False,8000000.0,TPC Boston,7216,71,18
+1328,BMW Championship,2014,2014-09-04T07:00Z,2014-09-07T07:00Z,False,8000000.0,Cherry Hills CC,7352,70,18
+1336,TOUR Championship by Coca-Cola,2014,2014-09-11T07:00Z,2014-09-14T07:00Z,False,8000000.0,East Lake Golf Club,7307,70,18
+2226,Ryder Cup,2014,2014-09-26T07:00Z,2014-09-28T07:00Z,False,null,Gleneagles Golf Course,7296,72,18
+2271,Frys.com Open,2015,2014-10-09T07:00Z,2014-10-12T07:00Z,False,6000000.0,Silverado Resort,7203,72,18
+2260,Shriners Hospitals for Children Open,2015,2014-10-16T07:00Z,2014-10-19T07:00Z,False,6200000.0,TPC at Summerlin,7255,71,18
+2276,The McGladrey Classic,2015,2014-10-23T07:00Z,2014-10-26T07:00Z,False,5600000.0,Sea Island Resort (Seaside),7005,70,18
+2275,CIMB Classic,2015,2014-10-30T07:00Z,2014-11-02T07:00Z,False,7000000.0,TPC Kuala Lumpur,6985,72,18
+2267,World Golf Championships-HSBC Champions,2015,2014-11-06T08:00Z,2014-11-09T08:00Z,False,8500000.0,Sheshan International GC,7261,72,18
+2254,Sanderson Farms Championship,2015,2014-11-06T08:00Z,2014-11-09T08:00Z,False,4000000.0,Country Club of Jackson,7364,72,18
+2270,OHL Classic at Mayakoba,2015,2014-11-13T08:00Z,2014-11-16T08:00Z,False,6100000.0,El Camaleon GC,6987,71,18
+2291,Hero World Challenge,2015,2014-12-04T08:00Z,2014-12-07T08:00Z,False,3500000.0,Isleworth G&CC,7267,72,18
+2230,Hyundai Tournament of Champions,2015,2015-01-09T08:00Z,2015-01-12T08:00Z,False,5700000.0,Plantation Course,7452,73,18
+2235,Sony Open in Hawaii,2015,2015-01-15T08:00Z,2015-01-18T08:00Z,False,5600000.0,Waialae CC,7044,70,18
+2231,Humana Challenge in partnership with the Clinton Foundation,2015,2015-01-22T08:00Z,2015-01-25T08:00Z,False,5700000.0,PGA West (Palmer),6950,72,18
+2231,Humana Challenge in partnership with the Clinton Foundation,2015,2015-01-22T08:00Z,2015-01-25T08:00Z,False,5700000.0,La Quinta CC,7060,72,36
+2231,Humana Challenge in partnership with the Clinton Foundation,2015,2015-01-22T08:00Z,2015-01-25T08:00Z,False,5700000.0,Jack Nicklaus Tournament,6924,72,18
+2231,Humana Challenge in partnership with the Clinton Foundation,2015,2015-01-22T08:00Z,2015-01-25T08:00Z,False,5700000.0,Jack Nicklaus Tournament Course,6924,72,18
+2232,Waste Management Phoenix Open,2015,2015-01-29T08:00Z,2015-02-01T08:00Z,False,6300000.0,TPC Scottsdale,7266,71,18
+2234,Farmers Insurance Open,2015,2015-02-05T08:00Z,2015-02-08T08:00Z,False,6300000.0,Torrey Pines North,7052,72,18
+2234,Farmers Insurance Open,2015,2015-02-05T08:00Z,2015-02-08T08:00Z,False,6300000.0,Torrey Pines South,7698,72,18
+2233,AT&T Pebble Beach National Pro-Am,2015,2015-02-12T08:00Z,2015-02-15T08:00Z,False,6800000.0,Spyglass Hill GC,6953,72,18
+2233,AT&T Pebble Beach National Pro-Am,2015,2015-02-12T08:00Z,2015-02-15T08:00Z,False,6800000.0,Pebble Beach Golf Links,6837,72,18
+2233,AT&T Pebble Beach National Pro-Am,2015,2015-02-12T08:00Z,2015-02-15T08:00Z,False,6800000.0,Monterey Peninsula CC,6867,71,18
+2236,Northern Trust Open,2015,2015-02-19T08:00Z,2015-02-22T08:00Z,False,6700000.0,Riviera Country Club,7349,71,18
+2237,The Honda Classic,2015,2015-02-26T08:00Z,2015-03-02T08:00Z,False,6100000.0,PGA National Champion Course,7140,70,18
+2266,World Golf Championships-Cadillac Championship,2015,2015-03-05T08:00Z,2015-03-08T08:00Z,False,9250000.0,Doral Golf Resort and Spa,7528,72,0
+2273,Puerto Rico Open,2015,2015-03-05T08:00Z,2015-03-08T08:00Z,False,3000000.0,Grand Reserve Country Club,7528,72,18
+2263,Valspar Championship,2015,2015-03-12T07:00Z,2015-03-15T07:00Z,False,5900000.0,Innisbrook Resort -Copperhead,7340,71,36
+2238,Arnold Palmer Invitational presented by MasterCard,2015,2015-03-19T07:00Z,2015-03-22T07:00Z,False,6300000.0,Bay Hill Club & Lodge,7419,72,18
+2261,Valero Texas Open,2015,2015-03-26T07:00Z,2015-03-29T07:00Z,False,6200000.0,TPC San Antonio,6923,72,18
+2244,Shell Houston Open,2015,2015-04-02T07:00Z,2015-04-05T07:00Z,False,6600000.0,Golf Club of Houston,7441,72,18
+2241,Masters Tournament,2015,2015-04-09T07:00Z,2015-04-12T07:00Z,True,10000000.0,Augusta National Golf Club,7435,72,18
+2242,RBC Heritage,2015,2015-04-16T07:00Z,2015-04-19T07:00Z,False,5900000.0,Harbour Town Golf Links,7101,71,18
+2239,Zurich Classic of New Orleans,2015,2015-04-23T07:00Z,2015-04-26T07:00Z,False,6900000.0,TPC of Louisiana,7425,72,18
+2264,World Golf Championships-Cadillac Match Play,2015,2015-04-29T07:00Z,2015-05-03T07:00Z,False,9250000.0,TPC Harding Park,7127,71,18
+2240,THE PLAYERS Championship,2015,2015-05-07T07:00Z,2015-05-10T07:00Z,False,10000000.0,TPC Sawgrass,6847,70,18
+2268,Wells Fargo Championship,2015,2015-05-14T07:00Z,2015-05-17T07:00Z,False,7100000.0,Quail Hollow Club,7562,72,18
+2246,Crowne Plaza Invitational at  Colonial,2015,2015-05-21T07:00Z,2015-05-24T07:00Z,False,6500000.0,Colonial CC,7204,70,18
+2245,AT&T Byron Nelson,2015,2015-05-28T07:00Z,2015-05-31T07:00Z,False,7100000.0,TPC Four Seasons Resort,7166,70,18
+2245,AT&T Byron Nelson,2015,2015-05-28T07:00Z,2015-05-31T07:00Z,False,7100000.0,St. George&apos;s G&CC,7079,70,18
+2245,AT&T Byron Nelson,2015,2015-05-28T07:00Z,2015-05-31T07:00Z,False,7100000.0,TPC Sugarloaf,6864,69,54
+2247,the Memorial Tournament presented by Nationwide,2015,2015-06-04T07:00Z,2015-06-07T07:00Z,False,6200000.0,Muirfield Village GC,7392,72,18
+2250,FedEx St. Jude Classic,2015,2015-06-11T07:00Z,2015-06-14T07:00Z,False,6000000.0,TPC Southwind,7239,70,18
+2249,U.S. Open,2015,2015-06-18T07:00Z,2015-06-21T07:00Z,True,10000000.0,Chambers Bay GC,7710,70,18
+2249,U.S. Open,2015,2015-06-18T07:00Z,2015-06-21T07:00Z,True,10000000.0,Chambers Bay GC 2,7593,70,18
+2251,Travelers Championship,2015,2015-06-25T07:00Z,2015-06-28T07:00Z,False,6400000.0,TPC River Highlands,6841,70,18
+2274,The Greenbrier Classic,2015,2015-07-02T07:00Z,2015-07-05T07:00Z,False,6700000.0,The Old White Course,7287,70,18
+2258,John Deere Classic,2015,2015-07-09T07:00Z,2015-07-12T07:00Z,False,4700000.0,TPC Deere Run,7268,71,18
+2253,The Open,2015,2015-07-16T07:00Z,2015-07-20T07:00Z,True,9200000.0,St Andrews - Old Course,7297,72,0
+2277,Barbasol Championship,2015,2015-07-16T07:00Z,2015-07-19T07:00Z,False,3500000.0,RTJ Trail Grand National Lake,7302,71,18
+2257,RBC Canadian Open,2015,2015-07-23T07:00Z,2015-07-26T07:00Z,False,5800000.0,Glen Abbey GC,7253,72,18
+2272,Quicken Loans National,2015,2015-07-30T07:00Z,2015-08-02T07:00Z,False,6700000.0,Robert Trent Jones GC,7385,71,18
+2256,World Golf Championships-Bridgestone Invitational,2015,2015-08-06T07:00Z,2015-08-09T07:00Z,False,9250000.0,Firestone CC (South Course),7400,70,0
+2265,Barracuda Championship,2015,2015-08-06T07:00Z,2015-08-09T07:00Z,False,3100000.0,Montreux G&CC,7472,72,18
+2255,PGA Championship,2015,2015-08-13T07:00Z,2015-08-16T07:00Z,True,10000000.0,Whistling Straits,7507,72,18
+2243,Wyndham Championship,2015,2015-08-20T07:00Z,2015-08-23T07:00Z,False,5400000.0,Sedgefield Country Club,7127,70,18
+2248,The Barclays,2015,2015-08-27T07:00Z,2015-08-30T07:00Z,False,8250000.0,Plainfield CC,7012,70,18
+2269,Deutsche Bank Championship,2015,2015-09-04T07:00Z,2015-09-07T07:00Z,False,8250000.0,TPC Boston,7242,71,18
+2252,BMW Championship,2015,2015-09-17T07:00Z,2015-09-20T07:00Z,False,8250000.0,Conway Farms Golf Club,7198,71,18
+2262,TOUR Championship by Coca-Cola,2015,2015-09-24T07:00Z,2015-09-27T07:00Z,False,8250000.0,East Lake Golf Club,7307,70,18
+2259,The Presidents Cup,2015,2015-10-08T07:00Z,2015-10-11T07:00Z,False,null,Jack Nicklaus Golf Course (South Korea),7380,72,0
+2523,Frys.com Open,2016,2015-10-15T07:00Z,2015-10-18T07:00Z,False,6000000.0,Silverado Resort,7203,72,18
+2511,Shriners Hospitals for Children Open,2016,2015-10-22T07:00Z,2015-10-25T07:00Z,False,6400000.0,TPC at Summerlin,7255,71,18
+2527,CIMB Classic,2016,2015-10-29T07:00Z,2015-11-01T07:00Z,False,7000000.0,TPC Kuala Lumpur,6260,71,18
+2506,Sanderson Farms Championship,2016,2015-11-05T08:00Z,2015-11-09T08:00Z,False,4100000.0,Country Club of Jackson,7421,72,18
+2519,World Golf Championships-HSBC Champions,2016,2015-11-05T08:00Z,2015-11-08T08:00Z,False,8500000.0,Sheshan International GC,7261,72,18
+2522,OHL Classic at Mayakoba,2016,2015-11-12T08:00Z,2015-11-16T08:00Z,False,6200000.0,El Camaleon GC,6987,71,18
+2528,The RSM Classic,2016,2015-11-19T08:00Z,2015-11-22T08:00Z,False,5700000.0,Sea Island Resort (Seaside),7005,70,18
+2528,The RSM Classic,2016,2015-11-19T08:00Z,2015-11-22T08:00Z,False,5700000.0,Sea Island Resort (Plantation),7058,72,18
+2605,Hero World Challenge,2016,2015-12-03T08:00Z,2015-12-06T08:00Z,False,3500000.0,Albany,7302,72,18
+2482,Hyundai Tournament of Champions,2016,2016-01-07T08:00Z,2016-01-10T08:00Z,False,5900000.0,Plantation Course,7452,73,18
+2487,Sony Open in Hawaii,2016,2016-01-14T08:00Z,2016-01-17T08:00Z,False,5800000.0,Waialae CC,7044,70,18
+2483,CareerBuilder Challenge in partnership with the Clinton Foundation,2016,2016-01-21T08:00Z,2016-01-24T08:00Z,False,5800000.0,La Quinta CC,7060,72,36
+2483,CareerBuilder Challenge in partnership with the Clinton Foundation,2016,2016-01-21T08:00Z,2016-01-24T08:00Z,False,5800000.0,Jack Nicklaus Tournament,7159,72,18
+2483,CareerBuilder Challenge in partnership with the Clinton Foundation,2016,2016-01-21T08:00Z,2016-01-24T08:00Z,False,5800000.0,Stadium Course,7113,72,0
+2483,CareerBuilder Challenge in partnership with the Clinton Foundation,2016,2016-01-21T08:00Z,2016-01-24T08:00Z,False,5800000.0,Jack Nicklaus Tournament Course,7159,72,18
+2486,Farmers Insurance Open,2016,2016-01-28T08:00Z,2016-02-01T08:00Z,False,6500000.0,Torrey Pines North,7052,72,18
+2486,Farmers Insurance Open,2016,2016-01-28T08:00Z,2016-02-01T08:00Z,False,6500000.0,Torrey Pines South,7698,72,18
+2484,Waste Management Phoenix Open,2016,2016-02-04T08:00Z,2016-02-07T08:00Z,False,6500000.0,TPC Scottsdale,7266,71,18
+2485,AT&T Pebble Beach Pro-Am,2016,2016-02-11T08:00Z,2016-02-14T08:00Z,False,7000000.0,Spyglass Hill GC,6953,72,18
+2485,AT&T Pebble Beach Pro-Am,2016,2016-02-11T08:00Z,2016-02-14T08:00Z,False,7000000.0,Pebble Beach Golf Links,6816,72,18
+2485,AT&T Pebble Beach Pro-Am,2016,2016-02-11T08:00Z,2016-02-14T08:00Z,False,7000000.0,Monterey Peninsula CC,6867,71,18
+2488,Northern Trust Open,2016,2016-02-18T08:00Z,2016-02-21T08:00Z,False,6800000.0,Riviera Country Club,7322,71,18
+2489,The Honda Classic,2016,2016-02-25T08:00Z,2016-02-28T08:00Z,False,6100000.0,PGA National Champion Course,7140,70,18
+2518,World Golf Championships-Cadillac Championship,2016,2016-03-03T08:00Z,2016-03-06T08:00Z,False,9500000.0,Doral Golf Resort and Spa,7543,72,0
+2514,Valspar Championship,2016,2016-03-10T08:00Z,2016-03-13T08:00Z,False,6100000.0,Innisbrook Resort -Copperhead,7340,71,36
+2490,Arnold Palmer Invitational presented by MasterCard,2016,2016-03-17T07:00Z,2016-03-20T07:00Z,False,6300000.0,Bay Hill Club & Lodge,7419,72,18
+2516,World Golf Championships-Dell Match Play,2016,2016-03-23T07:00Z,2016-03-27T07:00Z,False,9500000.0,Austin Country Club,7073,71,18
+2525,Puerto Rico Open at Coco Beach,2016,2016-03-24T07:00Z,2016-03-27T07:00Z,False,3000000.0,Grand Reserve Country Club,7506,72,18
+2496,Shell Houston Open,2016,2016-03-31T07:00Z,2016-04-03T07:00Z,False,6800000.0,Golf Club of Houston,7441,72,18
+2493,Masters Tournament,2016,2016-04-07T07:00Z,2016-04-10T07:00Z,True,10000000.0,Augusta National Golf Club,7435,72,18
+2494,RBC Heritage,2016,2016-04-14T07:00Z,2016-04-17T07:00Z,False,5900000.0,Harbour Town Golf Links,7101,71,18
+2512,Valero Texas Open,2016,2016-04-21T07:00Z,2016-04-24T07:00Z,False,6200000.0,TPC San Antonio,7435,72,18
+2491,Zurich Classic of New Orleans,2016,2016-04-28T07:00Z,2016-05-02T07:00Z,False,7000000.0,TPC of Louisiana,7425,72,18
+2520,Wells Fargo Championship,2016,2016-05-05T07:00Z,2016-05-08T07:00Z,False,7300000.0,Quail Hollow Club,7575,72,18
+2492,THE PLAYERS Championship,2016,2016-05-12T07:00Z,2016-05-15T07:00Z,False,10500000.0,TPC Sawgrass,7215,72,18
+2497,AT&T Byron Nelson,2016,2016-05-19T07:00Z,2016-05-22T07:00Z,False,7300000.0,TPC Four Seasons Resort,7166,70,18
+2498,DEAN & DELUCA Invitational,2016,2016-05-26T07:00Z,2016-05-29T07:00Z,False,6700000.0,Colonial CC,7209,70,18
+2499,the Memorial Tournament presented by Nationwide,2016,2016-06-02T07:00Z,2016-06-05T07:00Z,False,8500000.0,Muirfield Village GC,7392,72,18
+2502,FedEx St. Jude Classic,2016,2016-06-09T07:00Z,2016-06-12T07:00Z,False,6200000.0,TPC Southwind,7244,70,18
+2501,U.S. Open,2016,2016-06-16T07:00Z,2016-06-19T07:00Z,True,10000000.0,Oakmont Country Club,7274,70,0
+2524,Quicken Loans National,2016,2016-06-23T07:00Z,2016-06-26T07:00Z,False,6900000.0,Congressional Country Club,7569,71,18
+2508,World Golf Championships-Bridgestone Invitational,2016,2016-06-30T07:00Z,2016-07-03T07:00Z,False,9500000.0,Firestone CC (South Course),7400,70,0
+2517,Barracuda Championship,2016,2016-06-30T07:00Z,2016-07-03T07:00Z,False,3200000.0,Montreux G&CC,7472,72,18
+2526,The Greenbrier Classic,2016,2016-07-07T07:00Z,2016-07-10T07:00Z,False,null,The Old White Course,7287,70,18
+2505,The Open,2016,2016-07-14T07:00Z,2016-07-17T07:00Z,True,9300000.0,Royal Troon Golf Course,7190,71,0
+2529,Barbasol Championship,2016,2016-07-14T07:00Z,2016-07-17T07:00Z,False,3500000.0,RTJ Trail Grand National Lake,7302,71,18
+2509,RBC Canadian Open,2016,2016-07-21T07:00Z,2016-07-24T07:00Z,False,5900000.0,Glen Abbey GC,7253,72,18
+2507,PGA Championship,2016,2016-07-28T07:00Z,2016-07-31T07:00Z,True,10000000.0,Baltusrol GC,7428,70,18
+2503,Travelers Championship,2016,2016-08-04T07:00Z,2016-08-07T07:00Z,False,6600000.0,TPC River Highlands,6841,70,18
+2510,John Deere Classic,2016,2016-08-11T07:00Z,2016-08-14T07:00Z,False,4800000.0,TPC Deere Run,7268,71,18
+2495,Wyndham Championship,2016,2016-08-18T07:00Z,2016-08-21T07:00Z,False,5600000.0,Sedgefield Country Club,7127,70,18
+2500,The Barclays,2016,2016-08-25T07:00Z,2016-08-28T07:00Z,False,8500000.0,Bethpage State Park,7468,71,18
+2521,Deutsche Bank Championship,2016,2016-09-02T07:00Z,2016-09-05T07:00Z,False,8500000.0,TPC Boston,7297,71,18
+2504,BMW Championship,2016,2016-09-08T07:00Z,2016-09-11T07:00Z,False,8500000.0,Crooked Stick Golf Course,7567,72,0
+2513,TOUR Championship,2016,2016-09-22T07:00Z,2016-09-25T07:00Z,False,8500000.0,East Lake Golf Club,7385,70,18
+2515,Ryder Cup,2016,2016-09-30T07:00Z,2016-10-02T07:00Z,False,null,Hazeltine National Golf Club,7674,72,0
+2725,Safeway Open,2017,2016-10-13T07:00Z,2016-10-16T07:00Z,False,6000000.0,Silverado Resort,7203,72,18
+2728,CIMB Classic,2017,2016-10-20T07:00Z,2016-10-23T07:00Z,False,7000000.0,TPC Kuala Lumpur,6246,71,18
+2722,World Golf Championships-HSBC Champions,2017,2016-10-26T07:00Z,2016-10-30T07:00Z,False,9500000.0,Sheshan International GC,7261,72,18
+2711,Sanderson Farms Championship,2017,2016-10-27T07:00Z,2016-10-30T07:00Z,False,4200000.0,Country Club of Jackson,7421,72,18
+2716,Shriners Hospitals for Children Open,2017,2016-11-03T07:00Z,2016-11-06T07:00Z,False,6600000.0,TPC at Summerlin,7255,71,18
+2724,OHL Classic at Mayakoba,2017,2016-11-10T08:00Z,2016-11-13T08:00Z,False,7000010.0,El Camaleon GC,6987,71,18
+2729,The RSM Classic,2017,2016-11-17T08:00Z,2016-11-20T08:00Z,False,6000000.0,Sea Island Resort (Seaside),7005,70,18
+2729,The RSM Classic,2017,2016-11-17T08:00Z,2016-11-20T08:00Z,False,6000000.0,Sea Island Resort (Plantation),7058,72,18
+3069,Hero World Challenge,2017,2016-12-01T08:00Z,2016-12-04T08:00Z,False,3500000.0,Albany,7309,72,18
+2689,SBS Tournament of Champions,2017,2017-01-05T08:00Z,2017-01-08T08:00Z,False,6100000.0,Plantation Course,7452,73,18
+2694,Sony Open in Hawaii,2017,2017-01-12T08:00Z,2017-01-15T08:00Z,False,6000000.0,Waialae CC,7044,70,18
+2690,CareerBuilder Challenge,2017,2017-01-19T08:00Z,2017-01-22T08:00Z,False,5800000.0,La Quinta CC,7060,72,36
+2690,CareerBuilder Challenge,2017,2017-01-19T08:00Z,2017-01-22T08:00Z,False,5800000.0,Jack Nicklaus Tournament,7159,72,18
+2690,CareerBuilder Challenge,2017,2017-01-19T08:00Z,2017-01-22T08:00Z,False,5800000.0,Stadium Course,7113,72,0
+2690,CareerBuilder Challenge,2017,2017-01-19T08:00Z,2017-01-22T08:00Z,False,5800000.0,Jack Nicklaus Tournament Course,7159,72,18
+2693,Farmers Insurance Open,2017,2017-01-26T08:00Z,2017-01-29T08:00Z,False,6700000.0,Torrey Pines North,7258,72,18
+2693,Farmers Insurance Open,2017,2017-01-26T08:00Z,2017-01-29T08:00Z,False,6700000.0,Torrey Pines South,7698,72,18
+2691,Waste Management Phoenix Open,2017,2017-02-02T08:00Z,2017-02-05T08:00Z,False,6700000.0,TPC Scottsdale,7216,71,18
+2692,AT&T Pebble Beach Pro-Am,2017,2017-02-09T08:00Z,2017-02-12T08:00Z,False,7200000.0,Spyglass Hill GC,6953,72,18
+2692,AT&T Pebble Beach Pro-Am,2017,2017-02-09T08:00Z,2017-02-12T08:00Z,False,7200000.0,Pebble Beach Golf Links,6816,72,18
+2692,AT&T Pebble Beach Pro-Am,2017,2017-02-09T08:00Z,2017-02-12T08:00Z,False,7200000.0,Monterey Peninsula CC,6958,71,18
+2695,Genesis Open,2017,2017-02-16T08:00Z,2017-02-19T08:00Z,False,7000000.0,Riviera Country Club,7322,71,18
+2696,The Honda Classic,2017,2017-02-23T08:00Z,2017-02-26T08:00Z,False,6400000.0,PGA National Champion Course,7140,70,18
+3735,World Golf Championships-Mexico Championship,2017,2017-03-02T08:00Z,2017-03-05T08:00Z,False,9750000.0,Club De Golf Chapultepec,7330,71,18
+2719,Valspar Championship,2017,2017-03-09T08:00Z,2017-03-12T08:00Z,False,6300000.0,Innisbrook Resort -Copperhead,7340,71,36
+2697,Arnold Palmer Invitational presented by Mastercard,2017,2017-03-16T07:00Z,2017-03-19T07:00Z,False,8700000.0,Bay Hill Club & Lodge,7419,72,18
+2720,World Golf Championships-Dell Technologies Match Play,2017,2017-03-22T07:00Z,2017-03-26T07:00Z,False,9750000.0,Austin Country Club,7108,71,18
+2726,Puerto Rico Open,2017,2017-03-23T07:00Z,2017-03-26T07:00Z,False,3000000.0,Grand Reserve Country Club,7506,72,18
+2703,Shell Houston Open,2017,2017-03-30T07:00Z,2017-04-02T07:00Z,False,7000000.0,Golf Club of Houston,7441,72,18
+2700,2017 Masters Tournament,2017,2017-04-06T07:00Z,2017-04-09T07:00Z,True,10000000.0,Augusta National Golf Club,7435,72,18
+2701,RBC Heritage,2017,2017-04-13T07:00Z,2017-04-16T07:00Z,False,6500000.0,Harbour Town Golf Links,7099,71,18
+2717,Valero Texas Open,2017,2017-04-20T07:00Z,2017-04-23T07:00Z,False,6200000.0,TPC San Antonio,7435,72,18
+2698,Zurich Classic of New Orleans,2017,2017-04-27T07:00Z,2017-04-30T07:00Z,False,7100000.0,TPC of Louisiana,7425,72,18
+3067,Wells Fargo Championship,2017,2017-05-04T07:00Z,2017-05-07T07:00Z,False,7500000.0,Eagle Point Golf Club,7396,72,18
+2699,THE PLAYERS Championship,2017,2017-05-11T07:00Z,2017-05-14T07:00Z,False,10500000.0,TPC Sawgrass,7189,72,18
+2704,AT&T Byron Nelson,2017,2017-05-18T07:00Z,2017-05-21T07:00Z,False,7500000.0,TPC Four Seasons Resort,7166,70,18
+2705,DEAN & DELUCA Invitational,2017,2017-05-25T07:00Z,2017-05-28T07:00Z,False,6900000.0,Colonial CC,7209,70,18
+2706,the Memorial Tournament presented by Nationwide,2017,2017-06-01T07:00Z,2017-06-04T07:00Z,False,8700000.0,Muirfield Village GC,7392,72,18
+2707,FedEx St. Jude Classic,2017,2017-06-08T07:00Z,2017-06-11T07:00Z,False,6400000.0,TPC Southwind,7244,70,18
+3066,U.S. Open,2017,2017-06-15T07:00Z,2017-06-18T07:00Z,True,12000000.0,Erin Hills,7741,72,0
+2708,Travelers Championship,2017,2017-06-22T07:00Z,2017-06-25T07:00Z,False,6800000.0,TPC River Highlands,6841,70,18
+3068,Quicken Loans National,2017,2017-06-29T07:00Z,2017-07-02T07:00Z,False,7100000.0,TPC Potomac at Avenel Farm,7107,70,18
+3068,Quicken Loans National,2017,2017-06-29T07:00Z,2017-07-02T07:00Z,False,7100000.0,Whistle Bear GC,7107,70,0
+2727,The Greenbrier Classic,2017,2017-07-06T07:00Z,2017-07-09T07:00Z,False,7100000.0,The Old White Course,7286,70,18
+2715,John Deere Classic,2017,2017-07-13T07:00Z,2017-07-16T07:00Z,False,5600000.0,TPC Deere Run,7268,71,18
+2715,John Deere Classic,2017,2017-07-13T07:00Z,2017-07-16T07:00Z,False,5600000.0,Jennings Mill Country Club,7004,72,0
+2710,The Open,2017,2017-07-20T07:00Z,2017-07-23T07:00Z,True,10250000.0,Royal Birkdale GC,7156,70,0
+2730,Barbasol Championship,2017,2017-07-20T07:00Z,2017-07-23T07:00Z,False,3500000.0,RTJ Trail Grand National Lake,7302,71,18
+2714,RBC Canadian Open,2017,2017-07-27T07:00Z,2017-07-30T07:00Z,False,6000000.0,Glen Abbey GC,7253,72,18
+2713,World Golf Championships-Bridgestone Invitational,2017,2017-08-03T07:00Z,2017-08-06T07:00Z,False,9750000.0,Firestone CC (South Course),7400,70,0
+2721,Barracuda Championship,2017,2017-08-03T07:00Z,2017-08-06T07:00Z,False,3300000.0,Montreux G&CC,7472,72,18
+2712,PGA Championship,2017,2017-08-10T07:00Z,2017-08-13T07:00Z,True,10500000.0,Quail Hollow Club,7600,71,18
+2702,Wyndham Championship,2017,2017-08-17T07:00Z,2017-08-20T07:00Z,False,5800000.0,Sedgefield Country Club,7127,70,18
+3065,THE NORTHERN TRUST,2017,2017-08-24T07:00Z,2017-08-27T07:00Z,False,8750000.0,Glen Oaks Club,7346,70,0
+3065,THE NORTHERN TRUST,2017,2017-08-24T07:00Z,2017-08-27T07:00Z,False,8750000.0,Glen Oaks CC,7346,70,0
+2723,Dell Technologies Championship,2017,2017-09-01T07:00Z,2017-09-04T07:00Z,False,8750000.0,TPC Boston,7342,71,18
+2709,BMW Championship,2017,2017-09-14T07:00Z,2017-09-17T07:00Z,False,8750000.0,Conway Farms Golf Club,7208,71,18
+2718,TOUR Championship,2017,2017-09-21T07:00Z,2017-09-24T07:00Z,False,8750000.0,East Lake Golf Club,7362,70,18
+2718,TOUR Championship,2017,2017-09-21T07:00Z,2017-09-24T07:00Z,False,8750000.0,TPC San Francisco Bay at Stonebrae,7045,70,0
+3070,Presidents Cup,2017,2017-09-28T07:00Z,2017-10-01T07:00Z,False,null,Liberty National Golf Club,7328,71,18
+3777,Safeway Open,2018,2017-10-05T07:00Z,2017-10-08T07:00Z,False,6200000.0,Silverado Resort,7166,72,18
+3780,CIMB Classic,2018,2017-10-12T07:00Z,2017-10-15T07:00Z,False,7000000.0,TPC Kuala Lumpur,7005,72,18
+3802,THE CJ CUP @ NINE BRIDGES,2018,2017-10-19T07:00Z,2017-10-22T07:00Z,False,9250000.0,The Club at Nine Bridges,7184,72,18
+3763,Sanderson Farms Championship,2018,2017-10-26T07:00Z,2017-10-29T07:00Z,False,4300000.0,Country Club of Jackson,7440,72,18
+3774,World Golf Championships-HSBC Champions,2018,2017-10-26T07:00Z,2017-10-29T07:00Z,False,9750000.0,Sheshan International GC,7261,72,18
+3768,Shriners Hospitals for Children Open,2018,2017-11-02T07:00Z,2017-11-05T07:00Z,False,6800000.0,TPC at Summerlin,7255,71,18
+3776,OHL Classic at Mayakoba,2018,2017-11-09T08:00Z,2017-11-12T08:00Z,False,7100000.0,El Camaleon GC,6987,71,18
+3781,The RSM Classic,2018,2017-11-16T08:00Z,2017-11-19T08:00Z,False,6200000.0,Sea Island Resort (Seaside),7005,70,18
+3781,The RSM Classic,2018,2017-11-16T08:00Z,2017-11-19T08:00Z,False,6200000.0,Sea Island Resort (Plantation),6907,72,18
+3791,Hero World Challenge,2018,2017-11-30T08:00Z,2017-12-03T08:00Z,False,3500000.0,Albany,7309,72,18
+3742,Sentry Tournament of Champions,2018,2018-01-04T08:00Z,2018-01-07T08:00Z,False,6300000.0,Plantation Course,7452,73,18
+3747,Sony Open in Hawaii,2018,2018-01-11T08:00Z,2018-01-14T08:00Z,False,6200000.0,Waialae CC,7044,70,18
+3743,CareerBuilder Challenge,2018,2018-01-18T08:00Z,2018-01-21T08:00Z,False,5900000.0,La Quinta CC,7060,72,36
+3743,CareerBuilder Challenge,2018,2018-01-18T08:00Z,2018-01-21T08:00Z,False,5900000.0,Jack Nicklaus Tournament,7159,72,18
+3743,CareerBuilder Challenge,2018,2018-01-18T08:00Z,2018-01-21T08:00Z,False,5900000.0,Stadium Course,7113,72,0
+3743,CareerBuilder Challenge,2018,2018-01-18T08:00Z,2018-01-21T08:00Z,False,5900000.0,Jack Nicklaus Tournament Course,7159,72,18
+3746,Farmers Insurance Open,2018,2018-01-25T08:00Z,2018-01-30T08:00Z,False,6900000.0,Torrey Pines North,7258,72,18
+3746,Farmers Insurance Open,2018,2018-01-25T08:00Z,2018-01-30T08:00Z,False,6900000.0,Torrey Pines South,7698,72,18
+3744,Waste Management Phoenix Open,2018,2018-02-01T08:00Z,2018-02-04T08:00Z,False,6900000.0,TPC Scottsdale,7266,71,18
+3745,AT&T Pebble Beach Pro-Am,2018,2018-02-08T08:00Z,2018-02-11T08:00Z,False,7400000.0,Spyglass Hill GC,6953,72,18
+3745,AT&T Pebble Beach Pro-Am,2018,2018-02-08T08:00Z,2018-02-11T08:00Z,False,7400000.0,Pebble Beach Golf Links,6816,72,18
+3745,AT&T Pebble Beach Pro-Am,2018,2018-02-08T08:00Z,2018-02-11T08:00Z,False,7400000.0,Monterey Peninsula CC,6958,71,18
+3748,Genesis Open,2018,2018-02-15T08:00Z,2018-02-18T08:00Z,False,7200000.0,Riviera Country Club,7322,71,18
+3749,The Honda Classic,2018,2018-02-22T08:00Z,2018-02-25T08:00Z,False,6600000.0,PGA National Champion Course,7140,70,18
+3789,World Golf Championships-Mexico Championship,2018,2018-03-01T08:00Z,2018-03-04T08:00Z,False,10000000.0,Club De Golf Chapultepec,7330,71,18
+3771,Valspar Championship,2018,2018-03-08T08:00Z,2018-03-11T08:00Z,False,6500000.0,The Cliffs at Walnut Cove,7278,71,0
+3771,Valspar Championship,2018,2018-03-08T08:00Z,2018-03-11T08:00Z,False,6500000.0,Innisbrook Resort -Copperhead,7340,71,36
+3750,Arnold Palmer Invitational presented by Mastercard,2018,2018-03-15T07:00Z,2018-03-18T07:00Z,False,8900000.0,Bay Hill Club & Lodge,7419,72,18
+3772,World Golf Championships-Dell Technologies Match Play,2018,2018-03-21T07:00Z,2018-03-25T07:00Z,False,10000000.0,Austin Country Club,7108,71,18
+3803,Corales Puntacana Resort & Club Championship,2018,2018-03-22T07:00Z,2018-03-25T07:00Z,False,3000000.0,Priddis Greens Golf & Country Club,7670,72,0
+3803,Corales Puntacana Resort & Club Championship,2018,2018-03-22T07:00Z,2018-03-25T07:00Z,False,3000000.0,Corales Puntacana GC,7650,72,18
+3756,Houston Open,2018,2018-03-29T07:00Z,2018-04-01T07:00Z,False,7000000.0,Golf Club of Houston,7441,72,18
+401025221,2018 Masters Tournament,2018,2018-04-05T07:00Z,2018-04-08T07:00Z,True,11000000.0,Augusta National Golf Club,7435,72,18
+401025246,RBC Heritage,2018,2018-04-12T07:00Z,2018-04-15T07:00Z,False,6700000.0,Harbour Town Golf Links,7099,71,18
+401025247,Valero Texas Open,2018,2018-04-19T07:00Z,2018-04-22T07:00Z,False,6200000.0,TPC San Antonio,7435,72,18
+401025248,Zurich Classic of New Orleans,2018,2018-04-26T07:00Z,2018-04-29T07:00Z,False,7200000.0,TPC of Louisiana,7425,72,18
+401025249,Wells Fargo Championship,2018,2018-05-03T07:00Z,2018-05-06T07:00Z,False,7700000.0,Quail Hollow Club,7600,71,18
+401025250,The Players Championship,2018,2018-05-10T07:00Z,2018-05-13T07:00Z,False,10500000.0,TPC Sawgrass,7189,72,18
+401025251,AT&T Byron Nelson,2018,2018-05-17T07:00Z,2018-05-20T07:00Z,False,7700000.0,Trinity Forest Golf Club,7450,72,18
+401025252,Fort Worth Invitational,2018,2018-05-24T07:00Z,2018-05-27T07:00Z,False,7100000.0,Colonial CC,7209,70,18
+401025253,the Memorial Tournament pres. by Nationwide,2018,2018-05-31T07:00Z,2018-06-03T07:00Z,False,8900000.0,Muirfield Village GC,7392,72,18
+401025254,FedEx St. Jude Classic,2018,2018-06-07T07:00Z,2018-06-10T07:00Z,False,6600000.0,TPC Southwind,7244,70,18
+401025255,U.S. Open,2018,2018-06-14T07:00Z,2018-06-17T07:00Z,True,12000000.0,Shinnecock Hills GC ,7440,70,18
+401025256,Travelers Championship,2018,2018-06-21T07:00Z,2018-06-24T07:00Z,False,7000000.0,TPC River Highlands,6841,70,18
+401025270,Quicken Loans National,2018,2018-06-28T07:00Z,2018-07-01T07:00Z,False,7100000.0,TPC Potomac at Avenel Farm,7107,70,18
+401025257,A Military Tribute at The Greenbrier,2018,2018-07-05T07:00Z,2018-07-08T07:00Z,False,7300000.0,The Old White Course,7286,70,18
+401025258,John Deere Classic,2018,2018-07-12T07:00Z,2018-07-15T07:00Z,False,5800000.0,TPC Deere Run,7268,71,18
+401025259,The Open,2018,2018-07-19T07:00Z,2018-07-22T07:00Z,True,10800000.0,Carnoustie Golf Links,7295,72,0
+401025271,Barbasol Championship,2018,2018-07-19T07:00Z,2018-07-23T07:00Z,False,3500000.0,Keene Trace GC,6869,72,18
+401025260,RBC Canadian Open,2018,2018-07-26T07:00Z,2018-07-29T07:00Z,False,6200000.0,Glen Abbey GC,7253,72,18
+401025261,WGC-Bridgestone Invitational,2018,2018-08-02T07:00Z,2018-08-05T07:00Z,False,10000000.0,Firestone CC (South Course),7400,70,0
+401025262,Barracuda Championship,2018,2018-08-02T07:00Z,2018-08-05T07:00Z,False,3400000.0,Montreux G&CC,7472,72,18
+401025263,PGA Championship,2018,2018-08-09T07:00Z,2018-08-12T07:00Z,True,10500000.0,Bellerive Country Club,7316,70,18
+401025264,Wyndham Championship,2018,2018-08-16T07:00Z,2018-08-19T07:00Z,False,6000000.0,Sedgefield Country Club,7127,70,18
+401025265,THE NORTHERN TRUST,2018,2018-08-23T07:00Z,2018-08-26T07:00Z,False,9000000.0,Ridgewood Country Club,7385,71,18
+401025266,Dell Technologies Championship,2018,2018-08-31T07:00Z,2018-09-03T07:00Z,False,9000000.0,TPC Boston,7342,71,18
+401025267,BMW Championship,2018,2018-09-06T07:00Z,2018-09-10T07:00Z,False,9000000.0,Aronimink GC,7190,70,0
+401025268,Tour Championship,2018,2018-09-20T07:00Z,2018-09-23T07:00Z,False,9000000.0,East Lake Golf Club,7362,70,18
+401025269,Ryder Cup,2018,2018-09-28T07:00Z,2018-09-30T07:00Z,False,null,Le Golf National,7214,71,36
+401056252,Safeway Open,2019,2018-10-04T07:00Z,2018-10-07T07:00Z,False,6400000.0,Silverado Resort,7166,72,18
+401056500,CIMB Classic,2019,2018-10-10T07:00Z,2018-10-14T07:00Z,False,7000000.0,TPC Kuala Lumpur,7005,72,18
+401056501,THE CJ CUP @ NINE BRIDGES,2019,2018-10-17T07:00Z,2018-10-21T07:00Z,False,9500000.0,The Club at Nine Bridges,7241,72,18
+401056502,WGC-HSBC CHAMPIONS,2019,2018-10-24T07:00Z,2018-10-28T07:00Z,False,10000000.0,Sheshan International GC,7264,72,18
+401056503,Sanderson Farms Championship,2019,2018-10-25T07:00Z,2018-10-28T07:00Z,False,4400000.0,Country Club of Jackson,7460,72,18
+401056504,Shriners Hospital for Children Open,2019,2018-11-01T07:00Z,2018-11-04T07:00Z,False,7000000.0,TPC at Summerlin,7255,71,18
+401056505,Mayakoba Golf Classic,2019,2018-11-08T08:00Z,2018-11-11T08:00Z,False,7200000.0,El Camaleon GC,7017,71,18
+401056506,The RSM Classic,2019,2018-11-15T08:00Z,2018-11-18T08:00Z,False,6400000.0,Sea Island Resort (Seaside),7005,70,18
+401056506,The RSM Classic,2019,2018-11-15T08:00Z,2018-11-18T08:00Z,False,6400000.0,Sea Island Resort (Plantation),6907,72,18
+401077168,The Match: Tiger vs Phil,2019,2018-11-23T08:00Z,2018-11-23T08:00Z,False,9000000.0,Shadow Creek Golf Course,7560,72,0
+401077167,Hero World Challenge,2019,2018-11-29T08:00Z,2018-12-02T08:00Z,False,3500000.0,Albany,7309,72,18
+401056507,Sentry Tournament of Champions,2019,2019-01-03T08:00Z,2019-01-06T08:00Z,False,7000000.0,Plantation Course,7452,73,18
+401056510,Sony Open in Hawaii,2019,2019-01-10T08:00Z,2019-01-13T08:00Z,False,6400000.0,Waialae CC,7044,70,18
+401056511,Desert Classic,2019,2019-01-17T08:00Z,2019-01-20T08:00Z,False,5900000.0,La Quinta CC,7060,72,36
+401056511,Desert Classic,2019,2019-01-17T08:00Z,2019-01-20T08:00Z,False,5900000.0,Jack Nicklaus Tournament,7159,72,18
+401056511,Desert Classic,2019,2019-01-17T08:00Z,2019-01-20T08:00Z,False,5900000.0,PGA West TPC Stadium Course,7113,72,18
+401056512,Farmers Insurance Open,2019,2019-01-24T08:00Z,2019-01-27T08:00Z,False,7100000.0,Torrey Pines North,7258,72,18
+401056512,Farmers Insurance Open,2019,2019-01-24T08:00Z,2019-01-27T08:00Z,False,7100000.0,Torrey Pines South,7698,72,18
+401056513,Waste Management Phoenix Open,2019,2019-01-31T08:00Z,2019-02-03T08:00Z,False,7100000.0,TPC Scottsdale,7261,71,18
+401056514,AT&T Pebble Beach Pro-Am,2019,2019-02-07T08:00Z,2019-02-11T08:00Z,False,7600000.0,Spyglass Hill GC,6953,72,18
+401056514,AT&T Pebble Beach Pro-Am,2019,2019-02-07T08:00Z,2019-02-11T08:00Z,False,7600000.0,Pebble Beach Golf Links,6816,72,18
+401056514,AT&T Pebble Beach Pro-Am,2019,2019-02-07T08:00Z,2019-02-11T08:00Z,False,7600000.0,Monterey Peninsula CC,6958,71,18
+401056515,Genesis Open,2019,2019-02-14T08:00Z,2019-02-17T08:00Z,False,7400000.0,Riviera Country Club,7322,71,18
+401056516,WGC-Mexico Championship,2019,2019-02-21T08:00Z,2019-02-24T08:00Z,False,10250000.0,Club De Golf Chapultepec,7330,71,18
+401056517,Puerto Rico Open,2019,2019-02-21T08:00Z,2019-02-24T08:00Z,False,3000000.0,Grand Reserve Country Club,7506,72,18
+401056520,The Honda Classic,2019,2019-02-28T08:00Z,2019-03-03T08:00Z,False,6800000.0,PGA National Champion Course,7140,70,18
+401056521,Arnold Palmer Invitational Pres. By Mastercard,2019,2019-03-07T08:00Z,2019-03-10T08:00Z,False,9100000.0,Bay Hill Club & Lodge,7454,72,18
+401056522,THE PLAYERS Championship,2019,2019-03-14T07:00Z,2019-03-17T07:00Z,False,12500000.0,TPC Sawgrass,7189,72,18
+401056523,Valspar Championship,2019,2019-03-21T07:00Z,2019-03-24T07:00Z,False,6700000.0,Innisbrook Resort -Copperhead,7340,71,36
+401056524,WGC-Dell Technologies Match Play,2019,2019-03-27T07:00Z,2019-03-31T07:00Z,False,10250000.0,Austin Country Club,7108,71,18
+401056525,Corales Puntacana Resort & Club Championship,2019,2019-03-28T07:00Z,2019-03-31T07:00Z,False,3000000.0,Corales Puntacana GC,7670,72,18
+401056526,Valero Texas Open,2019,2019-04-04T07:00Z,2019-04-07T07:00Z,False,7500000.0,TPC San Antonio,7435,72,18
+401056527,2019 Masters Tournament,2019,2019-04-11T07:00Z,2019-04-14T07:00Z,True,11000000.0,Augusta National Golf Club,7475,72,18
+401056528,RBC Heritage,2019,2019-04-18T07:00Z,2019-04-21T07:00Z,False,6900000.0,Harbour Town Golf Links,7099,71,18
+401056529,Zurich Classic Of New Orleans,2019,2019-04-25T07:00Z,2019-04-28T07:00Z,False,7300000.0,TPC of Louisiana,7425,72,18
+401056550,Wells Fargo Championship,2019,2019-05-02T07:00Z,2019-05-05T07:00Z,False,7900000.0,Quail Hollow Club,7600,71,18
+401056551,AT&T Byron Nelson,2019,2019-05-09T07:00Z,2019-05-12T07:00Z,False,7900000.0,Trinity Forest Golf Club,7371,71,18
+401056552,PGA Championship,2019,2019-05-16T07:00Z,2019-05-19T07:00Z,True,10500000.0,Bethpage State Park,7459,70,18
+401056553,Charles Schwab Challenge,2019,2019-05-23T07:00Z,2019-05-26T07:00Z,False,7300000.0,Colonial CC,7209,70,18
+401056554,the Memorial Tournament pres. by Nationwide,2019,2019-05-30T07:00Z,2019-06-02T07:00Z,False,9100000.0,Muirfield Village GC,7392,72,18
+401056555,RBC Canadian Open,2019,2019-06-06T07:00Z,2019-06-09T07:00Z,False,7600000.0,Hamilton Golf & Country Club,6967,70,18
+401056556,U.S. Open,2019,2019-06-13T07:00Z,2019-06-16T07:00Z,True,12500000.0,Pebble Beach Golf Links,7075,71,18
+401056549,Travelers Championship,2019,2019-06-20T07:00Z,2019-06-23T07:00Z,False,7200000.0,TPC River Highlands,6841,70,18
+401056557,Rocket Mortgage Classic,2019,2019-06-27T07:00Z,2019-06-30T07:00Z,False,7300000.0,Detroit Golf Club,7340,72,18
+401056558,3M Open,2019,2019-07-04T07:00Z,2019-07-07T07:00Z,False,6400000.0,TPC Twin Cities,7468,71,18
+401056548,John Deere Classic,2019,2019-07-11T07:00Z,2019-07-14T07:00Z,False,6000000.0,TPC Deere Run,7268,71,18
+401056547,The Open Championship,2019,2019-07-18T07:00Z,2019-07-21T07:00Z,True,10750000.0,Royal Portrush Golf Club,7344,71,18
+401056546,Barbasol Championship,2019,2019-07-18T07:00Z,2019-07-21T07:00Z,False,3500000.0,Keene Trace GC,7328,72,18
+401056559,WGC-FedEx St. Jude Invitational,2019,2019-07-25T07:00Z,2019-07-28T07:00Z,False,10250000.0,TPC Southwind,7237,70,18
+401056560,Barracuda Championship,2019,2019-07-25T07:00Z,2019-07-28T07:00Z,False,3500000.0,Montreux G&CC,7472,72,18
+401056545,Wyndham Championship,2019,2019-08-01T07:00Z,2019-08-04T07:00Z,False,6200000.0,Sedgefield Country Club,7127,70,18
+401056544,THE NORTHERN TRUST,2019,2019-08-08T07:00Z,2019-08-11T07:00Z,False,9250000.0,Liberty National Golf Club,7370,71,18
+401056543,BMW Championship,2019,2019-08-15T07:00Z,2019-08-18T07:00Z,False,9250000.0,Medinah CC,7613,72,18
+401056542,Tour Championship,2019,2019-08-22T07:00Z,2019-08-25T07:00Z,False,null,East Lake Golf Club,7346,70,18
