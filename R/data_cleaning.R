@@ -102,22 +102,11 @@ drops_alldata <- c("tournament_id.y", "start_date", "end_date", "is_major", "pur
            "yards", "par", "num_holes")
 all_data <- all_data[ , !(names(all_data) %in% drops_alldata)]
 
-#Plot years versus course length
-ggplot(data = all_data) +
-  geom_point(size = 0.55, aes(x = season, y = yards))
+# removing any missingness from edge cases
+all_data <- all_data[complete.cases(all_data),]
+ott_putting <- ott_putting[complete.cases(ott_putting),]
+ott_putting_money <- ott_putting_money[complete.cases(ott_putting_money),]
 
-#Plot years versus SG
-ggplot(data = all_data) +
-  geom_point(size = 0.15, aes(x = season, y = total_sg_ott))+
-  geom_point(size = 0.15, aes(x = season, y = total_sg_putting, colour = "red"))
 
-#Plot SG vs Money for 2017
-all_data_2017 <- filter(all_data, season == 2017)
-ggplot(data = all_data_2017) +
-  geom_point(size = 0.55, aes(x = total_sg_ott, y = log(money)))+
-  geom_point(size = 0.55, aes(x = total_sg_putting, y = log(money), color="red"))
 
-#Plot SG vs Money for all time
-ggplot(data = all_data) +
-  geom_point(size = 0.55, aes(x = total_sg_ott, y = log(money)))+
-  geom_point(size = 0.55, aes(x = total_sg_putting, y = log(money), color="red"))
+
