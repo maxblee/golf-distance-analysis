@@ -12,39 +12,69 @@ moneylist <- read_csv('109_pga_stats.csv')
 tournaments <- read_csv('course_length_pga_stats.csv')
 metadata <- read_csv('metadata.csv')
 
-# Accounting for tie values in sg_putting, sg_ott, and moneylist
+# Accounting for tie and NA values in sg_putting, sg_ott, and moneylist
+# Replacing NA with 999 to reflect non-rank in a previous week
+
+# sg_putt last week ties
 sg_putt_lw_replace <- grep("T", sg_putting$rank_last_week, fixed=TRUE)
 for (elem in sg_putt_lw_replace) {
   sg_putting$rank_last_week[elem] <- substr(sg_putting$rank_last_week[elem], 2, 2)
 }
 
+# sg_putt this week ties
 sg_putt_tw_replace <- grep("T", sg_putting$rank_this_week, fixed=TRUE)
 for (elem in sg_putt_tw_replace) {
   sg_putting$rank_this_week[elem] <- substr(sg_putting$rank_this_week[elem], 2, 2)
 }
 
+# sg_putt missing rank
+for (i in 1:nrow(sg_putting)) {
+  if (is.na(sg_putting$rank_last_week[i])) {
+    sg_putting$rank_last_week[i] = 999
+  }
+}
+
+# sg_ott last week ties
 sg_ott_lw_replace <- grep("T", sg_ott$rank_last_week, fixed=TRUE)
 for (elem in sg_ott_lw_replace) {
   sg_ott$rank_last_week[elem] <- substr(sg_ott$rank_last_week[elem], 2, 2)
 }
 
+# sg_ott this week ties
 sg_ott_tw_replace <- grep("T", sg_ott$rank_this_week, fixed=TRUE)
 for (elem in sg_ott_tw_replace) {
   sg_ott$rank_this_week[elem] <- substr(sg_ott$rank_this_week[elem], 2, 2)
 }
 
+# sg_ott missing rank
+for (i in 1:nrow(sg_ott)) {
+  if (is.na(sg_ott$rank_last_week[i])) {
+    sg_ott$rank_last_week[i] = 999
+  }
+}
+
+# moneylist last week ties
 ml_lw_replace <- grep("T", moneylist$rank_last_week, fixed=TRUE)
 for (elem in ml_lw_replace) {
   moneylist$rank_last_week[elem] <- substr(moneylist$rank_last_week[elem], 2, 2)
 }
 
+# moneylist this week ties
 ml_tw_replace <- grep("T", moneylist$rank_this_week, fixed=TRUE)
 for (elem in ml_tw_replace) {
   moneylist$rank_this_week[elem] <- substr(moneylist$rank_this_week[elem], 2, 2)
 }
 
-# Accounting for missing rank in last week/current week sg_putting, sg_ott, moneylist
-# still need to do
+# moneylist missing rank
+for (i in 1:nrow(moneylist)) {
+  if (is.na(moneylist$rank_last_week[i])) {
+    moneylist$rank_last_week[i] = 999
+  }
+}
+
+# drop ytd victories because all NA values
+drops_moneylist <- c("ytd_victories")
+moneylist <- moneylist[ , !(names(moneylist) %in% drops_moneylist)]
 
 # Outer join putting and ott on player id, tournament id, and year
 ott_putting <- merge(x = sg_putting, y = sg_ott, by = c("tournament", "player_id", "season", "player_name", "player_url"), all = TRUE)
@@ -66,6 +96,11 @@ all_data$money = gsub("[^a-zA-Z0-9.]", "", all_data$money)
 all_data$money = as.numeric(all_data$money)
 all_data$total_sg_ott = as.numeric(all_data$total_sg_ott)
 all_data$total_sg_putting = as.numeric(all_data$total_sg_putting)
+
+# drop columns in all_data that are all NA values
+drops_alldata <- c("tournament_id.y", "start_date", "end_date", "is_major", "purse", "course_name",
+           "yards", "par", "num_holes")
+all_data <- all_data[ , !(names(all_data) %in% drops_alldata)]
 
 #Plot years versus course length
 ggplot(data = all_data) +
