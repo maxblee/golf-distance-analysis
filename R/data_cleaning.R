@@ -107,6 +107,5 @@ all_data <- all_data[complete.cases(all_data),]
 ott_putting <- ott_putting[complete.cases(ott_putting),]
 ott_putting_money <- ott_putting_money[complete.cases(ott_putting_money),]
 
-
-
+write.csv(all_data, "clean_data.csv")
 
