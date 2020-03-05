@@ -7,9 +7,10 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Read in clean data
 
-```{r cars}
+Exploratory data anlaysis: loading and plotting data
+
+```{r}
 library(tidyverse)
 
 clean_data <- read_csv("../clean_data/clean_data.csv")
@@ -20,6 +21,90 @@ tournaments <- read_csv("../raw_data/course_length_pga_stats.csv")
 all_data <- merge(x = clean_data, y = tournaments, by.x = c("tournament", "season"),
                   by.y = c("tournament_name", "season"))
 
+#Remove course length of 0
+all_data <- subset(all_data, yards != 0)
+
+#count tournaments dropped by course-year
+
+starting_course_count <- dim(unique(select(clean_data, tournament, season))) 
+final_course_count <-dim(unique(select(all_data, tournament, season)))
+percent_dropped <- (starting_course_count[1]-final_course_count[1])/starting_course_count[1] *100
+
+str(clean_data)
+str(all_data)
+
+#Plot years versus course length
+ggplot(data = all_data, aes(x = season, y = yards)) +
+  geom_point(size = 0.55)+
+  geom_smooth(method = "lm", se = TRUE)
+  
+#Plot years versus SG
+boxplot(all_data$total_sg_ott~all_data$season)
+boxplot(all_data$total_sg_putting~all_data$season)
+
+#Plot SG vs Money for all time
+ggplot(data = all_data) +
+  geom_point(size = 0.55, aes(x = total_sg_ott, y = log(money)))+
+  geom_point(size = 0.55, aes(x = total_sg_putting, y = log(money), color="red"))+
+  geom_smooth(aes(x = total_sg_ott, y = log(money)), method = "lm", se=TRUE)+
+  geom_smooth(aes(x = total_sg_putting, y = log(money), color="red"), method = "lm", se=TRUE)
+
+#Facet plot SG vs Money by year
+
+ggplot(data = subset(all_data, season == 2004)) +
+  geom_point(size = 0.55, aes(x = total_sg_ott, y = log(money)))+
+  geom_point(size = 0.55, aes(x = total_sg_putting, y = log(money), color="red"))+
+  geom_smooth(aes(x = total_sg_ott, y = log(money)), method = "lm", se=TRUE)+
+  geom_smooth(aes(x = total_sg_putting, y = log(money), color="red"), method = "lm", se=TRUE)+
+  facet_grid(season~.)
+
+ggplot(data = subset(all_data, season == 2011)) +
+  geom_point(size = 0.55, aes(x = total_sg_ott, y = log(money)))+
+  geom_point(size = 0.55, aes(x = total_sg_putting, y = log(money), color="red"))+
+  geom_smooth(aes(x = total_sg_ott, y = log(money)), method = "lm", se=TRUE)+
+  geom_smooth(aes(x = total_sg_putting, y = log(money), color="red"), method = "lm", se=TRUE)+
+  facet_grid(season~.)
+
+ggplot(data = subset(all_data, season == 2016)) +
+  geom_point(size = 0.55, aes(x = total_sg_ott, y = log(money)))+
+  geom_point(size = 0.55, aes(x = total_sg_putting, y = log(money), color="red"))+
+  geom_smooth(aes(x = total_sg_ott, y = log(money)), method = "lm", se=TRUE)+
+  geom_smooth(aes(x = total_sg_putting, y = log(money), color="red"), method = "lm", se=TRUE)+
+  facet_grid(season~.)
+
+ggplot(data = subset(all_data, season == 2019)) +
+  geom_point(size = 0.55, aes(x = total_sg_ott, y = log(money)))+
+  geom_point(size = 0.55, aes(x = total_sg_putting, y = log(money), color="red"))+
+  geom_smooth(aes(x = total_sg_ott, y = log(money)), method = "lm", se=TRUE)+
+  geom_smooth(aes(x = total_sg_putting, y = log(money), color="red"), method = "lm", se=TRUE)+
+  facet_grid(season~.)
+
+```
+
+Predictive modeling: the model below assesses the performance of two multivariate regression models: one without including course length and one including course length. 
+
+```{r, echo=FALSE}
+#sgott and sgp
+lm_withoutyards <- lm(money ~ total_sg_ott + total_sg_putting, data = all_data)
+summary(lm_withoutyards)
+
+#yards as covariate
+lm_withyards <- lm(money ~ total_sg_ott + total_sg_putting + yards, data = all_data)
+summary(lm_withyards)
+
+#interaction with yards
+lm_byyards <- lm(money ~ yards:total_sg_ott + yards:total_sg_putting, data = all_data)
+summary(lm_byyards)
+
+#variation by tournamanet
+lm_bytourney <- lm(money ~ total_sg_ott +total_sg_putting+tournament, data = all_data)
+summary(lm_bytourney)
+
+```
+
+Assessing Causality: Course length as a time-dependent shock
+
+```{r}
 #set model formula
 covars <- c("total_sg_putting", "total_sg_ott")
 
@@ -29,9 +114,6 @@ f <- reformulate(covars, response = "money")
 course_length_change_all <- all_data %>% 
   select(course_name, season, yards)%>% 
   unique()
-  
-
-
 
 #subset to individual courses to test
 monterey_peninsula <- subset(all_data, all_data$course_name == "Monterey Peninsula CC")
@@ -39,7 +121,6 @@ pebble_beach <- subset(all_data, all_data$course_name == "Pebble Beach Golf Link
 sea_island <- subset(all_data, all_data$course_name == "Sea Island Resort (Plantation)")
 torrey_pines <- subset(all_data, all_data$course_name == "Torrey Pines North")
 scottsdale <- subset(all_data, all_data$course_name == "TPC Scottsdale")
-
 
 #generate linear model
 
@@ -92,11 +173,6 @@ ggplot(data=coef_by_year5, aes(x = coef_by_year5$V1, y = coef_by_year5$coef_rati
   geom_vline(xintercept=2019, linetype = "dashed")
 ```
 
-## Including Plots
 
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
 
