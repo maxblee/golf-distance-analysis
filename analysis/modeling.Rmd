@@ -14,14 +14,89 @@ library(tidyverse)
 
 clean_data <- read_csv("../clean_data/clean_data.csv")
 
+tournaments <- read_csv("../raw_data/course_length_pga_stats.csv")
+
+#inner join with tournament data (excludes missing tournaments)
+all_data <- merge(x = clean_data, y = tournaments, by.x = c("tournament", "season"),
+                  by.y = c("tournament_name", "season"))
+
+#set model formula
+covars <- c("total_sg_putting", "total_sg_ott")
+
+f <- reformulate(covars, response = "money")
+
+#select unique course lengths for all models
+course_length_change_all <- all_data %>% 
+  select(course_name, season, yards)%>% 
+  unique()
+  
+
+
+
+#subset to individual courses to test
+monterey_peninsula <- subset(all_data, all_data$course_name == "Monterey Peninsula CC")
+pebble_beach <- subset(all_data, all_data$course_name == "Pebble Beach Golf Links")
+sea_island <- subset(all_data, all_data$course_name == "Sea Island Resort (Plantation)")
+torrey_pines <- subset(all_data, all_data$course_name == "Torrey Pines North")
+scottsdale <- subset(all_data, all_data$course_name == "TPC Scottsdale")
+
+
+#generate linear model
+
+model_by_year <- function(year, x, f) {
+  # Given the year, compute the ratio of coefficients for sgp and sgott
+  data <- subset(x, season == year)
+  model <- lm(f, data = data)
+  coef_ratio <- coef(model)['total_sg_putting']/coef(model)['total_sg_ott']
+  coef_ratio
+}
+  
+years1 <- as.matrix(unique(monterey_peninsula$season))
+years2 <- as.matrix(unique(pebble_beach$season))
+years3 <- as.matrix(unique(sea_island$season))
+years4 <- as.matrix(unique(torrey_pines$season))
+years5 <- as.matrix(unique(scottsdale$season))
+
+coef_ratios1 <- apply(years1, 1, model_by_year, x = monterey_peninsula, f=f)
+coef_ratios2 <- apply(years2, 1, model_by_year, x = pebble_beach, f=f)
+coef_ratios3 <- apply(years3, 1, model_by_year, x = sea_island, f=f)
+coef_ratios4 <- apply(years4, 1, model_by_year, x = torrey_pines, f=f)
+coef_ratios5 <- apply(years5, 1, model_by_year, x = scottsdale, f=f)
+
+coef_by_year1 <- data.frame(cbind(years1, coef_ratios1))
+coef_by_year2 <- data.frame(cbind(years2, coef_ratios2))
+coef_by_year3 <- data.frame(cbind(years3, coef_ratios3))
+coef_by_year4 <- data.frame(cbind(years4, coef_ratios4))
+coef_by_year5 <- data.frame(cbind(years5, coef_ratios5))
+
+ggplot(data=coef_by_year1, aes(x = coef_by_year1$V1, y = coef_by_year1$coef_ratios)) +
+  geom_point() +
+  geom_vline(xintercept=2017, linetype = "dashed")
+
+ggplot(data=coef_by_year3, aes(x = coef_by_year3$V1, y = coef_by_year3$coef_ratios)) +
+  geom_point() +
+  geom_vline(xintercept=2018, linetype = "dashed")
+
+ggplot(data=coef_by_year4, aes(x = coef_by_year4$V1, y = coef_by_year4$coef_ratios)) +
+  geom_point() +
+  geom_vline(xintercept=2013, linetype = "dashed")+
+  geom_vline(xintercept=2017, linetype = "dashed")
+
+
+ggplot(data=coef_by_year5, aes(x = coef_by_year5$V1, y = coef_by_year5$coef_ratios)) +
+  geom_point() +
+  geom_vline(xintercept=2014, linetype = "dashed")+
+  geom_vline(xintercept=2015, linetype = "dashed")+
+  geom_vline(xintercept=2017, linetype = "dashed")+
+  geom_vline(xintercept=2018, linetype = "dashed")+
+  geom_vline(xintercept=2019, linetype = "dashed")
 ```
 
 ## Including Plots
 
-You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
