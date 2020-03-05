@@ -71,18 +71,13 @@ def collect_tournament_stats(
     return tournament_stats
 
 def collect_stat_metadata(stat: str, season: Optional[str] = None) -> Dict[str, List[str]]:
-    """Returns a list of valid seasons, time periods and tournaments,
-    and their corresponding values for a specific stat.
-
-    Parameters
-    ----------
-    stat: str
-        The ID for the given stat (see `collect_tournament_stats`)
-    season: Optional[str]
-        If specified, get the tournament data (but not data on the seasons). Otherwise return {"season":[seasons]}
+    """
     """
     stats_metadata = {}
-    url = "https://www.pgatour.com/stats/stat.{}.html".format(stat)
+    if season:
+        url = "https://www.pgatour.com/stats/stat.{}.y{}.html".format(stat, season)
+    else:
+        url = "https://www.pgatour.com/stats/stat.{}.html".format(stat)
     html = get_soup(url)
     stats_group = html.find("div", class_="statistics-details-select-group")
     if stats_group is None:
