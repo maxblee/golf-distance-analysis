@@ -48,7 +48,17 @@ def collect_tournament_stats(
     url = "https://www.pgatour.com/content/pgatour/stats/stat.{}.{}.{}.{}.html".format(
         stat, season, time_period, tournament
     )
-    html = get_soup(url)
+    try:
+        html = get_soup(url)
+    # ran into impossible to debug case at https://www.pgatour.com/stats/stat.02564.y2019.eon.t472.html
+    except requests.exceptions.HTTPError as e:
+        import logging
+        logging.warning(e)
+        return []
+    except requests.exceptions.ConnectionError:
+        print("Sleeping for 30 seconds.")
+        time.sleep(30)
+        return collect_tournament_stats(stat, season, time_period, tournament)
     table_container = html.find("div", class_="details-table-wrap")
     if table_container.get_text().strip() == "Data Not Available.":
         return []
@@ -111,8 +121,9 @@ def _yield_stat_data(
     if seasons is not None:
         stat_metadata = [season for season in stat_metadata if season[0] in seasons]
     for season, season_id in stat_metadata:
+        print("Parsing season {}".format(season))
         # be nice to the servers
-        time.sleep(random.random() * 1.5)
+        time.sleep(random.random() * 2)
         season_metadata = collect_stat_metadata(stat, season)
         for time_period, tp_id in season_metadata["time_period"]:
             if time_periods is not None and time_period not in time_periods:
@@ -171,6 +182,7 @@ def write_mult_stat_files(
     writing the file.
     """
     for stat in stats:
+        print("Parsing {}".format(stat))
         path_to_file = "{}_{}".format(stat, file_suffix)
         path_to_file = os.path.join(file_dir, path_to_file) if file_dir is not None else path_to_file
         dump_stat_csv(path_to_file, stat, seasons, time_periods)

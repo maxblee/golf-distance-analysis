@@ -37,6 +37,8 @@ This will install your required dependencies.
 
 ## Data Preparation
 
+### Acquiring Data
+
 There are three scripts, all in the `python` directory, that are designed to help us collect data for
 various statistics on PGA's site (i.e. they scrape data from the PGA site). 
 
@@ -93,6 +95,24 @@ Finally, to get the lengths of courses for each year in our data, I used the scr
 python python/collect_course_length.py raw_data/course_length_pga_stats.csv --seasons 2004-2019
 ```
 
+### Cleaning Data
+
+After scraping the data, we need to clean it in order to correctly match the ESPN course length statistics with the PGA stats. In order to consolidate the names, we used OpenRefine and created a new name column documenting the edited names.
+
+We took the following processes in editing the names:
+
+- We removed leading and trailing whitespace and consolidated consecutive whitespace (r'\s{2,}')
+into single spaces.
+- We removed years from tournament names starting with years with the grel function `value.split(/^[0-9]{4} /).join("")`
+  - This changes e.g. "2017 Masters Tournament" to "Masters Tournament"
+- We replaced "WGC\s?\-\s?(.*)" to "World Golf Championships - \1" using the GREL function `value.replace(/(^WGC\s?\-\s?)(?=\w+)/, "World Golf Championships - ")`
+- We converted everything to lowercase
+- We removed leading articles (e.g. "the" or "a" or "an") using the GREL function `value.replace(/^(the\s|an\s|a\s)/, "")`
+- We removed duplicate punctuation using the GREL function `value.replace(/\.|&/, "")`
+- We manually altered any remaining duplicates. In order to do this, we took the following general approached:
+  - Ignored the name of the presenter/sponsor (e.g. "at Coco Beach") from the name when the name was not e.g. "Chrystler Classic" (removing when e.g. )
+  - Ignored slight missing words/misspelled words (e.g. "AT&T Pebble Beach National Pro-Am" == "AT&T Pebble Beach Pro-Am")
+  - We took a conservative approach in making these identifications to make sure there weren't false positive matches
 ## Project Structure
 
 I've tried to make the structure of this project logical and straightforward. I've used labels derived from [this article](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63) and GitHub projects to allow the team to figure out what needs to be done.
