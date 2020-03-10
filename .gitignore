@@ -4,4 +4,10 @@
 packrat/lib*/
 # hold off on posting the raw data on GitHub, probably use eg Google Docs instead
 raw_data/*
+clean_data/*
 __pycache__/
+# ignore unwanted output from RMarkdown
+research/file*
+research/*.aux
+research/*.log
+research/*.out
